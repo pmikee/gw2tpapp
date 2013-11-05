@@ -1,0 +1,27 @@
+name: Superior Rune of the Dolyak	 price: 5186.3	 eladodbszam: 212	 mennyivesznek: 714
+name: Soldier's Ring	 price: 4599.7	 eladodbszam: 33	 mennyivesznek: 122
+name: Superior Sigil of Corruption	 price: 3825.5	 eladodbszam: 227	 mennyivesznek: 187
+name: Grandmaster's Training Manual	 price: 1889.3	 eladodbszam: 129	 mennyivesznek: 894
+name: Berserker's Pit Fighter Pauldrons of the Flock	 price: 1722.0	 eladodbszam: 171	 mennyivesznek: 78
+name: Ravaging Pirate Hat of Divinity	 price: 1687.0	 eladodbszam: 95	 mennyivesznek: 178
+name: Hard Potion	 price: 1544.9	 eladodbszam: 111	 mennyivesznek: 395
+name: Superior Sigil of Restoration	 price: 1399.3	 eladodbszam: 94	 mennyivesznek: 106
+name: Superior Rune of the Mesmer	 price: 1049.3	 eladodbszam: 1425	 mennyivesznek: 328
+name: Onyx Lodestone	 price: 909.3	 eladodbszam: 1885	 mennyivesznek: 3539
+name: Carrion Flame Bow of Air	 price: 697.9	 eladodbszam: 158	 mennyivesznek: 45
+name: Traveler's Orrian Smasher of Air	 price: 558.6	 eladodbszam: 25	 mennyivesznek: 110
+name: Superior Sigil of Rage	 price: 268.1	 eladodbszam: 1068	 mennyivesznek: 195
+name: Platinum Doubloon	 price: 133.7	 eladodbszam: 1100	 mennyivesznek: 1652
+name: Major Sigil of Fire	 price: 83.3	 eladodbszam: 869	 mennyivesznek: 753
+name: Major Rune of Balthazar	 price: 72.1	 eladodbszam: 236	 mennyivesznek: 1278
+name: Mighty Magician Boots of Flame Legion	 price: 67.9	 eladodbszam: 2544	 mennyivesznek: 42
+name: Major Sigil of Water	 price: 59.5	 eladodbszam: 871	 mennyivesznek: 1839
+name: Major Sigil of Grawl Slaying	 price: 44.1	 eladodbszam: 399	 mennyivesznek: 1226
+name: Major Sigil of Energy	 price: 39.9	 eladodbszam: 323	 mennyivesznek: 3359
+name: Elaborate Totem	 price: 28.0	 eladodbszam: 11157	 mennyivesznek: 10756
+name: Calfskin Dye	 price: 26.6	 eladodbszam: 408	 mennyivesznek: 736
+name: Full Venom Sac	 price: 19.6	 eladodbszam: 56939	 mennyivesznek: 38102
+name: Vial of Thick Blood	 price: 18.2	 eladodbszam: 97340	 mennyivesznek: 47908
+name: Claw	 price: 18.2	 eladodbszam: 8883	 mennyivesznek: 23160
+name: Large Bone	 price: 7.0	 eladodbszam: 35877	 mennyivesznek: 117711
+name: Powerful Venom Sac	 price: 3.5	 eladodbszam: 18076	 mennyivesznek: 18629

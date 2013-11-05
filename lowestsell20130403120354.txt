@@ -1,0 +1,33 @@
+name: Satchel of Rampager's Emblazoned Armor	 price: 40599.3	 eladodbszam: 8	 mennyivesznek: 31
+name: Ebonblade	 price: 10171.0	 eladodbszam: 39	 mennyivesznek: 123
+name: White Dye	 price: 9653.0	 eladodbszam: 85	 mennyivesznek: 1206
+name: Jatoro's Mantle	 price: 5464.9	 eladodbszam: 37	 mennyivesznek: 28
+name: Grandmaster's Training Manual	 price: 2662.8	 eladodbszam: 129	 mennyivesznek: 892
+name: Superior Rune of the Pack	 price: 1729.0	 eladodbszam: 365	 mennyivesznek: 343
+name: Cleric's Greatsword of Debility	 price: 1619.1	 eladodbszam: 38	 mennyivesznek: 45
+name: Apothecary's Feathered Pants	 price: 1300.6	 eladodbszam: 68	 mennyivesznek: 227
+name: Berserker's Banded Coat of the Eagle	 price: 1125.6	 eladodbszam: 62	 mennyivesznek: 62
+name: Superior Sigil of Earth	 price: 1119.3	 eladodbszam: 161	 mennyivesznek: 228
+name: Berserker's Ring	 price: 827.4	 eladodbszam: 280	 mennyivesznek: 114
+name: Corrupted Core	 price: 685.3	 eladodbszam: 380	 mennyivesznek: 1500
+name: Berserker's Pirate Boots of Grenth	 price: 491.4	 eladodbszam: 186	 mennyivesznek: 78
+name: Berserker's Krait Slayer	 price: 452.9	 eladodbszam: 1146	 mennyivesznek: 469
+name: Rampager's Rogue Gloves of the Afflicted	 price: 346.5	 eladodbszam: 282	 mennyivesznek: 157
+name: Strong Pistol of Agony	 price: 198.1	 eladodbszam: 425	 mennyivesznek: 77
+name: Vicious Fang	 price: 184.1	 eladodbszam: 4315	 mennyivesznek: 17500
+name: Strong Axe of Corruption	 price: 178.5	 eladodbszam: 413	 mennyivesznek: 2
+name: Glacial Core	 price: 82.6	 eladodbszam: 5915	 mennyivesznek: 3412
+name: Mighty Magician Coat of Vampirism	 price: 71.4	 eladodbszam: 1331	 mennyivesznek: 300
+name: Crystal Core	 price: 67.2	 eladodbszam: 3854	 mennyivesznek: 4282
+name: Malign Steamblade	 price: 50.4	 eladodbszam: 316	 mennyivesznek: 1273
+name: Major Sigil of Corruption	 price: 46.2	 eladodbszam: 614	 mennyivesznek: 948
+name: Major Rune of Divinity	 price: 37.1	 eladodbszam: 1588	 mennyivesznek: 2237
+name: Honed Dagger	 price: 34.3	 eladodbszam: 393	 mennyivesznek: 0
+name: Mahogany Dye	 price: 30.1	 eladodbszam: 332	 mennyivesznek: 522
+name: Elaborate Totem	 price: 29.4	 eladodbszam: 11036	 mennyivesznek: 11615
+name: Fluff Dye	 price: 28.0	 eladodbszam: 154	 mennyivesznek: 1028
+name: Pile of Vile Essence	 price: 28.0	 eladodbszam: 2030	 mennyivesznek: 9328
+name: Precise Sword	 price: 21.7	 eladodbszam: 173	 mennyivesznek: 4
+name: Sharp Claw	 price: 19.6	 eladodbszam: 68616	 mennyivesznek: 22594
+name: Major Sigil of Air	 price: 18.9	 eladodbszam: 1407	 mennyivesznek: 4035
+name: Vial of Potent Blood	 price: 5.6	 eladodbszam: 53955	 mennyivesznek: 85717

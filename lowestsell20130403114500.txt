@@ -1,0 +1,28 @@
+name: Dusk	 price: 657999.3	 eladodbszam: 14	 mennyivesznek: 5151
+name: The Energizer	 price: 563499.3	 eladodbszam: 11	 mennyivesznek: 47
+name: Rampager's Destroyer Dagger	 price: 69860.7	 eladodbszam: 7	 mennyivesznek: 140
+name: Final Rest	 price: 15992.9	 eladodbszam: 170	 mennyivesznek: 229
+name: Black Dye	 price: 10143.0	 eladodbszam: 143	 mennyivesznek: 5306
+name: Berserker's Pearl Blunderbuss	 price: 10128.3	 eladodbszam: 18	 mennyivesznek: 46
+name: Apothecary's Exalted Masque	 price: 6197.8	 eladodbszam: 27	 mennyivesznek: 7
+name: Reyna's Coat	 price: 5385.1	 eladodbszam: 41	 mennyivesznek: 33
+name: Rampager's Pearl Crusher	 price: 4669.0	 eladodbszam: 61	 mennyivesznek: 33
+name: The Punisher	 price: 4195.1	 eladodbszam: 63	 mennyivesznek: 43
+name: Master's Training Manual	 price: 2454.9	 eladodbszam: 131	 mennyivesznek: 618
+name: Mini Fire Imp	 price: 1334.9	 eladodbszam: 106	 mennyivesznek: 172
+name: Berserker's Staff of Bloodlust	 price: 1256.5	 eladodbszam: 67	 mennyivesznek: 261
+name: Onyx Lodestone	 price: 1190.0	 eladodbszam: 1871	 mennyivesznek: 3537
+name: Cleric's Rifle of Perception	 price: 701.4	 eladodbszam: 48	 mennyivesznek: 47
+name: Shaman's Norn Focus of Air	 price: 541.8	 eladodbszam: 117	 mennyivesznek: 191
+name: Shaman's Amulet	 price: 464.8	 eladodbszam: 70	 mennyivesznek: 30
+name: Strong Rogue Pants of Dwayna	 price: 385.0	 eladodbszam: 308	 mennyivesznek: 200
+name: Hearty Splint Greaves	 price: 182.0	 eladodbszam: 79	 mennyivesznek: 232
+name: Strong Pirate Gloves of the Afflicted	 price: 62.3	 eladodbszam: 262	 mennyivesznek: 105
+name: Carnelian Silver Stud of Strength	 price: 52.5	 eladodbszam: 968	 mennyivesznek: 444
+name: Powerful Venom Sac	 price: 36.4	 eladodbszam: 17927	 mennyivesznek: 18554
+name: Mighty Superior Studded Pants	 price: 35.0	 eladodbszam: 752	 mennyivesznek: 0
+name: Chocolate Raspberry Cream	 price: 32.2	 eladodbszam: 8481	 mennyivesznek: 5573
+name: Minor Rune of Lyssa	 price: 28.0	 eladodbszam: 1536	 mennyivesznek: 1180
+name: Sharp Fang	 price: 23.8	 eladodbszam: 60724	 mennyivesznek: 21619
+name: Emerald Orb	 price: 23.1	 eladodbszam: 4591	 mennyivesznek: 4050
+name: Heavy Bone	 price: 19.6	 eladodbszam: 76499	 mennyivesznek: 32270

@@ -1,0 +1,62 @@
+name: Berserker's Destroyer Staff	 price: 82533.5
+name: Super Greatsword Skin	 price: 28977.2
+name: Abyss Dye	 price: 23788.1
+name: Nika's Mask	 price: 9982.0
+name: Mini Yaotl The Fierce	 price: 9380.0
+name: Nika's Gloves	 price: 9233.0
+name: Cleric's Ring	 price: 5918.5
+name: Superior Rune of the Scholar	 price: 4527.6
+name: Superior Sigil of Battle	 price: 4130.0
+name: Berserker's Emblazoned Coat	 price: 3497.2
+name: Carrion Pit Fighter Greaves of Lyssa	 price: 3079.3
+name: Traveler's Ceremonial Pike of Intelligence	 price: 2830.8
+name: Berserker's Warhorn of Hobbling	 price: 2732.8
+name: Superior Rune of the Ranger	 price: 2512.3
+name: Mhenlo's Leggings	 price: 2299.5
+name: Superior Rune of Strength	 price: 2221.8
+name: Superior Rune of the Traveler	 price: 2046.8
+name: Honed Banded Pauldrons of the Citadel	 price: 2008.3
+name: Beryl Mithril Ring of the Valkyrie	 price: 1872.5
+name: Amulet of the Dead	 price: 1849.4
+name: Berserker's Orichalcum Imbued Inscription	 price: 1493.1
+name: Superior Rune of Dwayna	 price: 1315.3
+name: Destroyer Lodestone	 price: 1216.6
+name: Superior Rune of Melandru	 price: 1107.4
+name: Superior Rune of the Fighter	 price: 1052.8
+name: Cleric's Axe of Smoldering	 price: 756.7
+name: Berserker's Greatsword of Air	 price: 657.3
+name: Amethyst Silver Band of Vigor	 price: 559.3
+name: Berserker's Bow of Perception	 price: 555.1
+name: Carrion Intricate Silk Insignia	 price: 555.1
+name: Berserker's Shield of Corruption	 price: 446.6
+name: Berserker's Amulet	 price: 444.5
+name: Strong Rogue Pauldrons of Vampirism	 price: 405.3
+name: Destroyer Core	 price: 400.4
+name: Carrion Flame Blade of Air	 price: 312.2
+name: Berserker's Scepter of Earth	 price: 301.7
+name: Carrion Conjurer Shoes of the Traveler	 price: 301.0
+name: Berserker's Conjurer Pants of the Afflicted	 price: 259.0
+name: Superior Sigil of Leeching	 price: 242.2
+name: Berserker's Mithril Plated Inscription	 price: 233.8
+name: Cleric's Banded Greaves of the Pack	 price: 206.5
+name: Carrion Conjurer Pants of Divinity	 price: 192.5
+name: Carrion Rogue Gloves of Lyssa	 price: 190.4
+name: Master Tuning Crystal	 price: 173.6
+name: Ravaging Iron Plated Inscription	 price: 163.8
+name: Major Rune of the Warrior	 price: 160.3
+name: Mighty Swindler Pauldrons	 price: 147.0
+name: Chrysocola Platinum Earring of Carrion	 price: 140.0
+name: Major Rune of Hoelbrak	 price: 77.0
+name: Minor Sigil of Luck	 price: 49.0
+name: Major Sigil of Peril	 price: 46.2
+name: Opal Platinum Earring of the Explorer	 price: 42.7
+name: Hardened Sharpening Stone	 price: 37.8
+name: Minor Rune of Lyssa	 price: 28.7
+name: Quality Sharpening Stone	 price: 28.7
+name: Wine Ice Dye	 price: 27.3
+name: Molten Core	 price: 23.1
+name: Large Scale	 price: 21.7
+name: Glacial Core	 price: 21.0
+name: Vial of Thick Blood	 price: 18.9
+name: Super Veggie Pizza	 price: 17.5
+name: Coral Chunk	 price: 7.7

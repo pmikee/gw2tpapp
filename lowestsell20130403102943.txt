@@ -1,0 +1,42 @@
+name: 20 Slot Invisible Bag	 price: 23081.8	 eladodbszam: 10	 mennyivesznek: 2594
+name: Super Sword Skin	 price: 16098.6	 eladodbszam: 80	 mennyivesznek: 118
+name: Super Scepter Skin	 price: 12600.0	 eladodbszam: 64	 mennyivesznek: 105
+name: Ebonblade	 price: 10402.0	 eladodbszam: 38	 mennyivesznek: 122
+name: Black Dye	 price: 10146.5	 eladodbszam: 138	 mennyivesznek: 5305
+name: Midnight Ice Dye	 price: 9889.6	 eladodbszam: 122	 mennyivesznek: 1447
+name: Superior Sigil of Bloodlust	 price: 7406.7	 eladodbszam: 106	 mennyivesznek: 486
+name: Super Long Bow Skin	 price: 6580.0	 eladodbszam: 66	 mennyivesznek: 105
+name: Knight's Pearl Crusher	 price: 6302.1	 eladodbszam: 50	 mennyivesznek: 20
+name: Yakkington's Gauntlets	 price: 5782.0	 eladodbszam: 66	 mennyivesznek: 53
+name: Berserker's Draconic Legs	 price: 5598.6	 eladodbszam: 92	 mennyivesznek: 56
+name: Ogden's Coat	 price: 4901.4	 eladodbszam: 52	 mennyivesznek: 36
+name: Berserker's Draconic Coat	 price: 4509.4	 eladodbszam: 49	 mennyivesznek: 66
+name: Explorer's Pearl Broadsword	 price: 4385.5	 eladodbszam: 41	 mennyivesznek: 76
+name: Grandmaster's Training Manual	 price: 2317.7	 eladodbszam: 128	 mennyivesznek: 882
+name: Apothecary's Feathered Gloves	 price: 2256.1	 eladodbszam: 14	 mennyivesznek: 113
+name: Superior Rune of the Centaur	 price: 1590.4	 eladodbszam: 321	 mennyivesznek: 283
+name: Superior Sigil of Agony	 price: 1497.3	 eladodbszam: 124	 mennyivesznek: 150
+name: Superior Rune of the Fire	 price: 1251.6	 eladodbszam: 303	 mennyivesznek: 125
+name: Cleric's Sword of Leeching	 price: 1232.0	 eladodbszam: 109	 mennyivesznek: 33
+name: Exquisite Ruby Jewel	 price: 744.1	 eladodbszam: 849	 mennyivesznek: 655
+name: Berserker's Rogue Coat of the Traveler	 price: 564.2	 eladodbszam: 73	 mennyivesznek: 32
+name: Ravaging Conjurer Mantle of the Dolyak	 price: 434.7	 eladodbszam: 108	 mennyivesznek: 58
+name: Molten Lodestone	 price: 417.9	 eladodbszam: 1357	 mennyivesznek: 5009
+name: Superior Sigil of Frailty	 price: 356.3	 eladodbszam: 333	 mennyivesznek: 74
+name: Giant Eye	 price: 347.9	 eladodbszam: 601	 mennyivesznek: 941
+name: Major Rune of the Mesmer	 price: 268.8	 eladodbszam: 613	 mennyivesznek: 264
+name: Malign Steam Scepter of Force	 price: 227.5	 eladodbszam: 74	 mennyivesznek: 57
+name: Rejuvenating Embroidered Cotton Insignia	 price: 214.2	 eladodbszam: 530	 mennyivesznek: 719
+name: Vicious Fang	 price: 204.4	 eladodbszam: 3977	 mennyivesznek: 17518
+name: Honed Embroidered Wool Insignia	 price: 136.5	 eladodbszam: 1562	 mennyivesznek: 631
+name: Superior Sigil of Water	 price: 121.8	 eladodbszam: 1296	 mennyivesznek: 438
+name: Explorer's Silk Insignia	 price: 100.1	 eladodbszam: 3649	 mennyivesznek: 851
+name: Valkyrie Feathered Boots	 price: 79.8	 eladodbszam: 99	 mennyivesznek: 112
+name: Master Maintenance Oil	 price: 76.3	 eladodbszam: 8483	 mennyivesznek: 6287
+name: Superior Sigil of Speed	 price: 71.4	 eladodbszam: 319	 mennyivesznek: 612
+name: Major Rune of the Traveler	 price: 58.8	 eladodbszam: 823	 mennyivesznek: 1113
+name: Major Rune of the Centaur	 price: 49.0	 eladodbszam: 287	 mennyivesznek: 1386
+name: Taupe Dye	 price: 32.2	 eladodbszam: 500	 mennyivesznek: 899
+name: Small Venom Sac	 price: 17.5	 eladodbszam: 39373	 mennyivesznek: 54760
+name: Beryl Shard	 price: 9.1	 eladodbszam: 4238	 mennyivesznek: 6055
+name: Coral Chunk	 price: 7.7	 eladodbszam: 14105	 mennyivesznek: 4788

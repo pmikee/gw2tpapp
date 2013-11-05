@@ -1,0 +1,76 @@
+name: Mystic Crescent	 price: 12520.2	 eladodbszam: 14	 mennyivesznek: 65
+name: Berserker's Emblazoned Coat	 price: 10264.8	 eladodbszam: 50	 mennyivesznek: 138
+name: Memory of the Sky	 price: 8746.5	 eladodbszam: 23	 mennyivesznek: 79
+name: Labrys	 price: 5828.9	 eladodbszam: 73	 mennyivesznek: 41
+name: Superior Sigil of Fire	 price: 5636.4	 eladodbszam: 105	 mennyivesznek: 417
+name: Berserker's Emblazoned Gloves	 price: 4846.1	 eladodbszam: 39	 mennyivesznek: 47
+name: Carrion Tribal Greatsword of Rage	 price: 4393.9	 eladodbszam: 57	 mennyivesznek: 91
+name: Gearbore	 price: 4223.1	 eladodbszam: 56	 mennyivesznek: 38
+name: Emerald Mithril Amulet of the Knight	 price: 3781.4	 eladodbszam: 24	 mennyivesznek: 94
+name: Superior Sigil of Corruption	 price: 3763.2	 eladodbszam: 223	 mennyivesznek: 189
+name: Reyna's Leggings	 price: 3498.6	 eladodbszam: 20	 mennyivesznek: 31
+name: Mhenlo's Leggings	 price: 3428.6	 eladodbszam: 84	 mennyivesznek: 33
+name: Superior Rune of the Warrior	 price: 3203.9	 eladodbszam: 181	 mennyivesznek: 188
+name: Berserker's Exalted Boots	 price: 2834.3	 eladodbszam: 37	 mennyivesznek: 51
+name: Vatlaaw's Pauldrons	 price: 2665.6	 eladodbszam: 47	 mennyivesznek: 20
+name: Berserker's Exalted Pants	 price: 2441.6	 eladodbszam: 47	 mennyivesznek: 47
+name: Rabid Ring	 price: 2356.2	 eladodbszam: 19	 mennyivesznek: 65
+name: Ruby Orichalcum Ring of the Berserker	 price: 1964.2	 eladodbszam: 435	 mennyivesznek: 290
+name: Soldier's Field Guide	 price: 1564.5	 eladodbszam: 97	 mennyivesznek: 98
+name: White Gold Dye	 price: 1488.9	 eladodbszam: 135	 mennyivesznek: 467
+name: Berserker's Bow of Perception	 price: 1400.0	 eladodbszam: 24	 mennyivesznek: 189
+name: Black Cherry Dye	 price: 1045.1	 eladodbszam: 132	 mennyivesznek: 213
+name: Cleric's Hammer of Ice	 price: 980.0	 eladodbszam: 31	 mennyivesznek: 140
+name: Berserker's Dagger of Air	 price: 974.4	 eladodbszam: 52	 mennyivesznek: 146
+name: Apothecary's Intricate Silk Insignia	 price: 961.1	 eladodbszam: 874	 mennyivesznek: 93
+name: Berserker's Ring	 price: 907.9	 eladodbszam: 274	 mennyivesznek: 96
+name: Mini Ascalonian Mage	 price: 907.9	 eladodbszam: 98	 mennyivesznek: 211
+name: Rampager's Masquerade Mantle	 price: 814.8	 eladodbszam: 82	 mennyivesznek: 61
+name: Shaman's Norn Axe of Air	 price: 799.4	 eladodbszam: 126	 mennyivesznek: 100
+name: Rampager's Shield of Ogre Slaying	 price: 741.3	 eladodbszam: 22	 mennyivesznek: 79
+name: Carrion Verdant Warhammer of Air	 price: 697.2	 eladodbszam: 17	 mennyivesznek: 51
+name: Traveler's Aureate Targe of Air	 price: 693.0	 eladodbszam: 86	 mennyivesznek: 195
+name: Rampager's Masquerade Raiments	 price: 660.1	 eladodbszam: 91	 mennyivesznek: 8
+name: Traveler's Banded Coat of Strength	 price: 599.2	 eladodbszam: 134	 mennyivesznek: 92
+name: Carrion Verdant Shield of Air	 price: 592.9	 eladodbszam: 167	 mennyivesznek: 82
+name: Shaman's Norn Focus of Air	 price: 543.2	 eladodbszam: 110	 mennyivesznek: 174
+name: Traveler's Conjurer Chest of the Rata Sum	 price: 534.8	 eladodbszam: 261	 mennyivesznek: 49
+name: Rampager's Rogue Pants of Divinity	 price: 525.7	 eladodbszam: 362	 mennyivesznek: 117
+name: Warmth Dye	 price: 520.8	 eladodbszam: 226	 mennyivesznek: 146
+name: Berserker's Rogue Pants of the Citadel	 price: 470.4	 eladodbszam: 184	 mennyivesznek: 50
+name: Traveler's Aureate Warhorn of Air	 price: 459.2	 eladodbszam: 165	 mennyivesznek: 56
+name: Shaman's Conjurer Mask of the Lich	 price: 450.8	 eladodbszam: 274	 mennyivesznek: 48
+name: Berserker's Warhorn of the Geomancer	 price: 435.4	 eladodbszam: 155	 mennyivesznek: 126
+name: Carrion Banded Helm of the Traveler	 price: 417.2	 eladodbszam: 116	 mennyivesznek: 30
+name: Cleric's Conjurer Chest of the Traveler	 price: 413.0	 eladodbszam: 204	 mennyivesznek: 91
+name: Rampager's Conjurer Gloves of the Pack	 price: 406.0	 eladodbszam: 315	 mennyivesznek: 35
+name: Strong Magician Coat of Flame Legion	 price: 398.3	 eladodbszam: 69	 mennyivesznek: 346
+name: Cleric's Pirate Boots of the Pack	 price: 391.3	 eladodbszam: 271	 mennyivesznek: 51
+name: Traveler's Banded Legs of Balthazar	 price: 350.0	 eladodbszam: 146	 mennyivesznek: 25
+name: Traveler's Conjurer Pants of Rage	 price: 341.6	 eladodbszam: 170	 mennyivesznek: 70
+name: Cleric's Conjurer Pants of the Traveler	 price: 286.3	 eladodbszam: 384	 mennyivesznek: 50
+name: Major Rune of the Mesmer	 price: 268.1	 eladodbszam: 604	 mennyivesznek: 237
+name: Shaman's Rogue Pants of Hoelbrak	 price: 256.9	 eladodbszam: 256	 mennyivesznek: 44
+name: Superior Rune of Mercy	 price: 217.7	 eladodbszam: 364	 mennyivesznek: 229
+name: Carrion Banded Greaves of the Flock	 price: 212.1	 eladodbszam: 71	 mennyivesznek: 71
+name: Resilient Krytan Dagger of Agony	 price: 145.6	 eladodbszam: 505	 mennyivesznek: 463
+name: Pillaging Embroidered Cotton Insignia	 price: 123.2	 eladodbszam: 322	 mennyivesznek: 1477
+name: Major Rune of the Eagle	 price: 112.0	 eladodbszam: 189	 mennyivesznek: 1341
+name: Karka Shell	 price: 105.0	 eladodbszam: 11809	 mennyivesznek: 32576
+name: Major Rune of Hoelbrak	 price: 99.4	 eladodbszam: 236	 mennyivesznek: 449
+name: Major Rune of Lyssa	 price: 97.3	 eladodbszam: 841	 mennyivesznek: 2030
+name: Omnomberry Ghost	 price: 87.5	 eladodbszam: 2925	 mennyivesznek: 2516
+name: Major Rune of the Afflicted	 price: 79.8	 eladodbszam: 315	 mennyivesznek: 1951
+name: Strong Swindler Mask of Hoelbrak	 price: 70.7	 eladodbszam: 393	 mennyivesznek: 201
+name: Resilient Krytan Dagger of Force	 price: 43.4	 eladodbszam: 186	 mennyivesznek: 170
+name: Precise Superior Studded Boots	 price: 30.8	 eladodbszam: 281	 mennyivesznek: 22
+name: Berserker's Pistol	 price: 23.8	 eladodbszam: 375	 mennyivesznek: 429
+name: Bone	 price: 22.4	 eladodbszam: 3872	 mennyivesznek: 50800
+name: Berserker's Mace	 price: 21.7	 eladodbszam: 381	 mennyivesznek: 568
+name: Super Veggie Pizza	 price: 21.0	 eladodbszam: 29890	 mennyivesznek: 4576
+name: Small Venom Sac	 price: 18.9	 eladodbszam: 42004	 mennyivesznek: 53573
+name: Strong Magician Legs of Flame Legion	 price: 14.0	 eladodbszam: 1576	 mennyivesznek: 18
+name: Peach Tart	 price: 13.3	 eladodbszam: 32704	 mennyivesznek: 26526
+name: Tiny Claw	 price: 5.6	 eladodbszam: 120679	 mennyivesznek: 52528
+name: Slab of Red Meat	 price: 2.8	 eladodbszam: 251629	 mennyivesznek: 136084
+name: Tiny Venom Sac	 price: 2.1	 eladodbszam: 133116	 mennyivesznek: 101559

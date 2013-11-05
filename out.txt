@@ -1,0 +1,69 @@
+name: Recipe: Box of Berserker's Draconic Armor (Exotic)	 price: 52498.6
+name: Berserker's Pearl Conch	 price: 8372.7
+name: Traveler's Orrian Staff of Rage	 price: 5887.0
+name: Zho's Coat	 price: 5255.6
+name: Opal Orichalcum Ring of the Explorer	 price: 4617.2
+name: Explorer's Emblazoned Helm	 price: 3842.3
+name: Superior Sigil of Corruption	 price: 3829.0
+name: Tahlkora's Boots	 price: 3689.7
+name: Firelighter	 price: 3490.9
+name: Koss' Pauldrons	 price: 3356.5
+name: Shard of the Deep	 price: 2672.6
+name: 18 Slot Craftsman's Bag	 price: 2571.8
+name: Cleric's Pearl Siren	 price: 2541.7
+name: Opal Mithril Ring of the Explorer	 price: 2422.0
+name: Superior Sigil of Accuracy	 price: 2399.6
+name: Carrion Duelist Gloves of Hoelbrak	 price: 2093.0
+name: Knight's Exalted Boots	 price: 2070.6
+name: Superior Rune of the Traveler	 price: 1962.1
+name: Koss' Greaves	 price: 1935.5
+name: Strong Reinforced Scale Legs of the Afflicted	 price: 1472.8
+name: Blood Dye	 price: 1467.9
+name: Galrath's Gauntlets	 price: 1398.6
+name: Silver Dye	 price: 1328.6
+name: Cleric's Hammer of Restoration	 price: 1118.6
+name: Berserker's Gladiator Chestplate	 price: 945.0
+name: Mini Fire Imp	 price: 907.9
+name: Rampager's Axe of Agony	 price: 839.3
+name: Exquisite Sapphire Jewel	 price: 769.3
+name: Strong Pirate Coat of Lyssa	 price: 765.8
+name: Berserker's Axe of Smoldering	 price: 694.4
+name: Ruby Dye	 price: 618.8
+name: Superior Rune of Mercy	 price: 611.1
+name: Ravaging Cabalist Gloves of the Flock	 price: 595.0
+name: Exquisite Opal Jewel	 price: 555.8
+name: Ravaging Reinforced Scale Helm of Lyssa	 price: 541.1
+name: Cleric's Spear of Peril	 price: 534.1
+name: Chrysocola Mithril Earring of Carrion	 price: 485.1
+name: Traveler's Orrian Speargun of Air	 price: 372.4
+name: Berserker's Warhorn of the Geomancer	 price: 372.4
+name: Resilient Krytan Sword of Force	 price: 325.5
+name: Superior Rune of the Engineer	 price: 277.9
+name: Vial of Powerful Blood	 price: 232.4
+name: Rampager's Mithril Plated Inscription	 price: 231.0
+name: Honed Reinforced Scale Helm of the Rata Sum	 price: 216.3
+name: Berserker's Mithril Plated Inscription	 price: 211.4
+name: Honed Reinforced Scale Legs of the Afflicted	 price: 199.5
+name: Carrion Conjurer Gloves of the Lich	 price: 192.5
+name: Hearty Cotton Insignia	 price: 186.2
+name: Vicious Claw	 price: 179.9
+name: Pile of Crystalline Dust	 price: 154.0
+name: Hearty Seasoned Inscription	 price: 140.7
+name: Glob of Ectoplasm	 price: 106.4
+name: Lapis Silver Ring of Heartiness	 price: 102.9
+name: Explorer's Silk Insignia	 price: 98.0
+name: Berserker's Elder Inscription	 price: 91.0
+name: Cleric's Elder Inscription	 price: 88.9
+name: Pillaging Cotton Insignia	 price: 87.5
+name: Major Sigil of Accuracy	 price: 83.3
+name: Mystic Coin	 price: 74.9
+name: Major Sigil of Life	 price: 68.6
+name: Lava Dye	 price: 58.8
+name: Major Rune of Hoelbrak	 price: 39.2
+name: Major Sigil of Energy	 price: 38.5
+name: Mighty Seeker Boots	 price: 37.8
+name: Hardened Sharpening Stone	 price: 31.5
+name: Major Rune of Vampirism	 price: 22.4
+name: Totem	 price: 21.7
+name: Small Claw	 price: 17.5
+name: Carnelian Lump	 price: 14.0

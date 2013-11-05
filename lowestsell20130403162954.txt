@@ -1,0 +1,52 @@
+name: Recipe: Superior Sigil of the Night	 price: 27234.9	 eladodbszam: 10	 mennyivesznek: 53
+name: Super Greatsword Skin	 price: 22049.3	 eladodbszam: 78	 mennyivesznek: 198
+name: Berserker's Ring	 price: 10858.4	 eladodbszam: 48	 mennyivesznek: 77
+name: Devona's Legplates	 price: 9191.0	 eladodbszam: 26	 mennyivesznek: 45
+name: Berserker's Pearl Quarterstaff	 price: 7491.4	 eladodbszam: 64	 mennyivesznek: 151
+name: Devona's Gauntlets	 price: 7438.9	 eladodbszam: 30	 mennyivesznek: 63
+name: Adam	 price: 6503.0	 eladodbszam: 64	 mennyivesznek: 94
+name: Super Scepter Skin	 price: 6011.6	 eladodbszam: 76	 mennyivesznek: 111
+name: Pact Quarterstaff of Force	 price: 4671.8	 eladodbszam: 50	 mennyivesznek: 42
+name: Berserker's Emblazoned Shoulders	 price: 4470.2	 eladodbszam: 40	 mennyivesznek: 58
+name: Superior Rune of Divinity	 price: 4338.6	 eladodbszam: 77	 mennyivesznek: 2388
+name: Superior Rune of the Air	 price: 3492.3	 eladodbszam: 189	 mennyivesznek: 143
+name: Malachidean	 price: 3381.0	 eladodbszam: 54	 mennyivesznek: 12
+name: 18 Slot Equipment Box	 price: 3252.9	 eladodbszam: 44	 mennyivesznek: 307
+name: Berserker's Exalted Coat	 price: 3106.6	 eladodbszam: 26	 mennyivesznek: 57
+name: Superior Rune of the Ogre	 price: 2099.3	 eladodbszam: 129	 mennyivesznek: 295
+name: Superior Rune of Hoelbrak	 price: 1370.6	 eladodbszam: 140	 mennyivesznek: 216
+name: Shaman's Conjurer Shoes of the Grove	 price: 1207.5	 eladodbszam: 27	 mennyivesznek: 28
+name: Superior Rune of the Thief	 price: 1111.6	 eladodbszam: 1044	 mennyivesznek: 417
+name: Cleric's Dagger of Bloodlust	 price: 1042.3	 eladodbszam: 108	 mennyivesznek: 218
+name: Superior Sigil of Luck	 price: 949.2	 eladodbszam: 954	 mennyivesznek: 418
+name: Pillaging Masquerade Raiments	 price: 861.0	 eladodbszam: 49	 mennyivesznek: 40
+name: Superior Rune of the Pirate	 price: 704.2	 eladodbszam: 1633	 mennyivesznek: 1362
+name: Berserker's Dagger of Bloodlust	 price: 697.2	 eladodbszam: 156	 mennyivesznek: 227
+name: Emerald Dye	 price: 586.6	 eladodbszam: 176	 mennyivesznek: 162
+name: Warmth Dye	 price: 546.7	 eladodbszam: 223	 mennyivesznek: 164
+name: Rose Tint Dye	 price: 539.0	 eladodbszam: 302	 mennyivesznek: 213
+name: Evening Grass Dye	 price: 538.3	 eladodbszam: 188	 mennyivesznek: 153
+name: Carrion Conjurer Gloves of Flame Legion	 price: 508.9	 eladodbszam: 87	 mennyivesznek: 41
+name: Berserker's Conjurer Gloves of the Centaur	 price: 496.3	 eladodbszam: 196	 mennyivesznek: 59
+name: Traveler's Banded Helm of Grenth	 price: 483.0	 eladodbszam: 186	 mennyivesznek: 42
+name: Green Apple Dye	 price: 476.7	 eladodbszam: 281	 mennyivesznek: 187
+name: Wine Shade Dye	 price: 471.1	 eladodbszam: 243	 mennyivesznek: 288
+name: Rampager's Pirate Mask of Balthazar	 price: 364.0	 eladodbszam: 353	 mennyivesznek: 23
+name: Rampager's Banded Coat of Dwayna	 price: 350.0	 eladodbszam: 163	 mennyivesznek: 71
+name: Cleric's Pirate Boots of the Pack	 price: 322.0	 eladodbszam: 277	 mennyivesznek: 47
+name: Strong Amulet	 price: 199.5	 eladodbszam: 237	 mennyivesznek: 53
+name: Pillaging Embroidered Wool Insignia	 price: 168.7	 eladodbszam: 630	 mennyivesznek: 1509
+name: Ravaging Embroidered Wool Insignia	 price: 165.9	 eladodbszam: 916	 mennyivesznek: 1056
+name: Ancient Bone	 price: 104.3	 eladodbszam: 35660	 mennyivesznek: 33504
+name: Cleric's Elder Inscription	 price: 87.5	 eladodbszam: 2592	 mennyivesznek: 1463
+name: Omnomberry Ghost	 price: 81.2	 eladodbszam: 2894	 mennyivesznek: 2518
+name: Major Sigil of Fire	 price: 63.7	 eladodbszam: 920	 mennyivesznek: 676
+name: Major Rune of the Citadel	 price: 61.6	 eladodbszam: 204	 mennyivesznek: 1663
+name: Glob of Ectoplasm	 price: 60.9	 eladodbszam: 58964	 mennyivesznek: 87272
+name: Major Sigil of Geomancy	 price: 51.1	 eladodbszam: 253	 mennyivesznek: 697
+name: Major Sigil of Leeching	 price: 40.6	 eladodbszam: 143	 mennyivesznek: 1096
+name: Tang Dye	 price: 31.5	 eladodbszam: 174	 mennyivesznek: 1352
+name: Green Tint Dye	 price: 25.9	 eladodbszam: 573	 mennyivesznek: 2247
+name: Full Venom Sac	 price: 18.9	 eladodbszam: 56039	 mennyivesznek: 37230
+name: Pile of Luminous Dust	 price: 16.1	 eladodbszam: 58912	 mennyivesznek: 42878
+name: Soft Wood Dowel	 price: 7.7	 eladodbszam: 9110	 mennyivesznek: 21766

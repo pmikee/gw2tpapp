@@ -1,0 +1,17 @@
+name: Giver's Pearl Carver	 price: 13640.2	 eladodbszam: 37	 mennyivesznek: 33
+name: Rampager's Exalted Coat	 price: 6825.7	 eladodbszam: 39	 mennyivesznek: 30
+name: Crystalline Blade	 price: 6455.4	 eladodbszam: 48	 mennyivesznek: 77
+name: Midnight Fire Dye	 price: 6272.7	 eladodbszam: 164	 mennyivesznek: 799
+name: Valkyrie Draconic Boots	 price: 4729.9	 eladodbszam: 53	 mennyivesznek: 26
+name: Gold Dye	 price: 2190.3	 eladodbszam: 364	 mennyivesznek: 612
+name: White Gold Dye	 price: 1487.5	 eladodbszam: 134	 mennyivesznek: 482
+name: Traveler's Conjurer Gloves of Dwayna	 price: 682.5	 eladodbszam: 30	 mennyivesznek: 18
+name: Strong Conjurer Mask of the Citadel	 price: 502.6	 eladodbszam: 434	 mennyivesznek: 96
+name: 12 Slot Invisible Leather Pack	 price: 447.3	 eladodbszam: 210	 mennyivesznek: 247
+name: Shaman's Pirate Boots of Lyssa	 price: 329.7	 eladodbszam: 351	 mennyivesznek: 73
+name: Destroyer Lodestone	 price: 312.2	 eladodbszam: 941	 mennyivesznek: 4787
+name: Mystic Coin	 price: 72.1	 eladodbszam: 72108	 mennyivesznek: 42360
+name: Pile of Luminous Dust	 price: 14.0	 eladodbszam: 57397	 mennyivesznek: 46007
+name: Amethyst Lump	 price: 12.6	 eladodbszam: 5040	 mennyivesznek: 9059
+name: Pile of Shimmering Dust	 price: 11.2	 eladodbszam: 13929	 mennyivesznek: 81202
+name: Large Claw	 price: 10.5	 eladodbszam: 31969	 mennyivesznek: 101582

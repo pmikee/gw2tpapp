@@ -1,0 +1,36 @@
+name: Mini Reef Drake	 price: 69991.6	 eladodbszam: 21	 mennyivesznek: 49
+name: Super Greatsword Skin	 price: 38324.3	 eladodbszam: 51	 mennyivesznek: 207
+name: Super Staff Skin	 price: 19326.3	 eladodbszam: 60	 mennyivesznek: 151
+name: Super Long Bow Skin	 price: 11823.0	 eladodbszam: 54	 mennyivesznek: 108
+name: Super Short Bow Skin	 price: 9799.3	 eladodbszam: 65	 mennyivesznek: 112
+name: Devona's Helm	 price: 7668.5	 eladodbszam: 50	 mennyivesznek: 86
+name: Superior Sigil of Energy	 price: 4093.6	 eladodbszam: 40	 mennyivesznek: 114
+name: Knight's Draconic Gauntlets	 price: 3623.9	 eladodbszam: 108	 mennyivesznek: 36
+name: Mhenlo's Leggings	 price: 3439.8	 eladodbszam: 84	 mennyivesznek: 31
+name: Superior Sigil of Accuracy	 price: 3403.4	 eladodbszam: 41	 mennyivesznek: 349
+name: Superior Sigil of the Night	 price: 2364.6	 eladodbszam: 273	 mennyivesznek: 142
+name: Gold Dye	 price: 2189.6	 eladodbszam: 373	 mennyivesznek: 605
+name: Coral Mithril Ring of the Rampager	 price: 1957.2	 eladodbszam: 100	 mennyivesznek: 53
+name: Superior Rune of the Soldier	 price: 1534.4	 eladodbszam: 456	 mennyivesznek: 671
+name: Berserker's Amulet	 price: 1043.0	 eladodbszam: 264	 mennyivesznek: 103
+name: Superior Sigil of Luck	 price: 1024.1	 eladodbszam: 942	 mennyivesznek: 413
+name: Corrupted Core	 price: 997.5	 eladodbszam: 347	 mennyivesznek: 1500
+name: Honed Bow of Life	 price: 699.3	 eladodbszam: 146	 mennyivesznek: 128
+name: Superior Rune of Dwayna	 price: 653.8	 eladodbszam: 280	 mennyivesznek: 546
+name: Strong Reinforced Scale Pauldrons of Scavenging	 price: 623.0	 eladodbszam: 157	 mennyivesznek: 273
+name: Shaman's Norn Dagger of Air	 price: 574.0	 eladodbszam: 242	 mennyivesznek: 189
+name: Carrion Conjurer Chest of Lyssa	 price: 483.0	 eladodbszam: 203	 mennyivesznek: 37
+name: Cleric's Conjurer Mask of Divinity	 price: 410.9	 eladodbszam: 344	 mennyivesznek: 103
+name: Rampager's Conjurer Gloves of the Pack	 price: 362.6	 eladodbszam: 316	 mennyivesznek: 12
+name: Strong Swindler Mask of Infiltration	 price: 256.2	 eladodbszam: 120	 mennyivesznek: 114
+name: Destroyer Core	 price: 187.6	 eladodbszam: 2041	 mennyivesznek: 2534
+name: Major Sigil of Strength	 price: 186.2	 eladodbszam: 284	 mennyivesznek: 1018
+name: Superior Sigil of Air	 price: 140.0	 eladodbszam: 547	 mennyivesznek: 519
+name: Strong Rogue Pants	 price: 132.3	 eladodbszam: 89	 mennyivesznek: 93
+name: Molten Core	 price: 97.3	 eladodbszam: 25098	 mennyivesznek: 5828
+name: Vicious Claw	 price: 91.7	 eladodbszam: 12250	 mennyivesznek: 16194
+name: Bowl of Lemongrass Poultry Soup	 price: 89.6	 eladodbszam: 1211	 mennyivesznek: 2753
+name: Major Sigil of Perception	 price: 40.6	 eladodbszam: 798	 mennyivesznek: 2033
+name: Major Sigil of Geomancy	 price: 30.8	 eladodbszam: 302	 mennyivesznek: 663
+name: Mighty Sword	 price: 25.2	 eladodbszam: 836	 mennyivesznek: 855
+name: Carnelian Nugget	 price: 16.8	 eladodbszam: 7812	 mennyivesznek: 8991

@@ -1,0 +1,21 @@
+name: Celestial Dye	 price: 12449.5	 eladodbszam: 105	 mennyivesznek: 1269
+name: Black Dye	 price: 9027.9	 eladodbszam: 139	 mennyivesznek: 5306
+name: Knight's Emblazoned Coat	 price: 5077.8	 eladodbszam: 125	 mennyivesznek: 39
+name: Knight's Emblazoned Helm	 price: 3710.0	 eladodbszam: 71	 mennyivesznek: 29
+name: Superior Sigil of Perception	 price: 3417.4	 eladodbszam: 447	 mennyivesznek: 189
+name: Knight's Draconic Legs	 price: 3384.5	 eladodbszam: 69	 mennyivesznek: 38
+name: Carrion Verdant Staff of Air	 price: 1503.6	 eladodbszam: 61	 mennyivesznek: 163
+name: Blood Dye	 price: 1491.7	 eladodbszam: 187	 mennyivesznek: 289
+name: Cleric's Sword of Force	 price: 1118.6	 eladodbszam: 35	 mennyivesznek: 42
+name: Mini Fire Imp	 price: 1034.6	 eladodbszam: 107	 mennyivesznek: 174
+name: Superior Sigil of Hydromancy	 price: 903.0	 eladodbszam: 158	 mennyivesznek: 318
+name: Shaman's Norn Greatsword of Air	 price: 506.8	 eladodbszam: 470	 mennyivesznek: 277
+name: Oil Slick Dye	 price: 468.3	 eladodbszam: 238	 mennyivesznek: 225
+name: Mini Devourer	 price: 378.0	 eladodbszam: 224	 mennyivesznek: 556
+name: Berserker's Conjurer Chest of Strength	 price: 349.3	 eladodbszam: 220	 mennyivesznek: 59
+name: Precise Seeker Pants	 price: 277.2	 eladodbszam: 302	 mennyivesznek: 175
+name: Glacial Lodestone	 price: 191.1	 eladodbszam: 1168	 mennyivesznek: 2032
+name: Crystal Sliver	 price: 119.7	 eladodbszam: 1649	 mennyivesznek: 1517
+name: Butterscotch Dye	 price: 27.3	 eladodbszam: 343	 mennyivesznek: 971
+name: Cleric's Axe	 price: 11.9	 eladodbszam: 174	 mennyivesznek: 1091
+name: Potent Venom Sac	 price: 7.7	 eladodbszam: 29633	 mennyivesznek: 82416

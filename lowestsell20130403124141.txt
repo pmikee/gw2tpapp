@@ -1,0 +1,27 @@
+name: Blastmaster 3000	 price: 9012.5	 eladodbszam: 61	 mennyivesznek: 32
+name: Valkyrie Pearl Quarterstaff	 price: 8296.4	 eladodbszam: 49	 mennyivesznek: 64
+name: Aidan's Boots	 price: 7974.4	 eladodbszam: 39	 mennyivesznek: 125
+name: Berserker's Pearl Carver	 price: 7727.3	 eladodbszam: 51	 mennyivesznek: 164
+name: Explorer's Pearl Reaver	 price: 5199.6	 eladodbszam: 41	 mennyivesznek: 22
+name: Chrysocola Orichalcum Amulet of Carrion	 price: 4912.6	 eladodbszam: 63	 mennyivesznek: 39
+name: Axiquiotl	 price: 2161.6	 eladodbszam: 151	 mennyivesznek: 135
+name: Chrysocola Orichalcum Earring of Carrion	 price: 1949.5	 eladodbszam: 188	 mennyivesznek: 205
+name: Onyx Lodestone	 price: 1241.8	 eladodbszam: 1976	 mennyivesznek: 3511
+name: Traveler's Aureate Warhammer of Air	 price: 1029.0	 eladodbszam: 24	 mennyivesznek: 26
+name: Superior Rune of the Pirate	 price: 704.9	 eladodbszam: 1675	 mennyivesznek: 1435
+name: Carrion Verdant Pistol of Air	 price: 630.0	 eladodbszam: 112	 mennyivesznek: 121
+name: Berserker's Banded Gauntlets of Infiltration	 price: 503.3	 eladodbszam: 125	 mennyivesznek: 103
+name: Cleric's Pirate Boots of the Pack	 price: 335.3	 eladodbszam: 266	 mennyivesznek: 53
+name: Rampager's Conjurer Pants of Infiltration	 price: 287.0	 eladodbszam: 330	 mennyivesznek: 53
+name: Vicious Fang	 price: 185.5	 eladodbszam: 4373	 mennyivesznek: 17508
+name: Ornate Snowflake	 price: 138.6	 eladodbszam: 270	 mennyivesznek: 565
+name: Platinum Doubloon	 price: 128.1	 eladodbszam: 1108	 mennyivesznek: 1644
+name: Superior Rune of Grenth	 price: 96.6	 eladodbszam: 3065	 mennyivesznek: 354
+name: Mighty Greatsword of Force	 price: 93.8	 eladodbszam: 1528	 mennyivesznek: 414
+name: Major Sigil of Accuracy	 price: 71.4	 eladodbszam: 418	 mennyivesznek: 1649
+name: Major Rune of Infiltration	 price: 66.5	 eladodbszam: 271	 mennyivesznek: 1250
+name: Fang	 price: 32.9	 eladodbszam: 23660	 mennyivesznek: 47908
+name: Mighty Sword	 price: 32.2	 eladodbszam: 1737	 mennyivesznek: 1765
+name: Claw	 price: 16.1	 eladodbszam: 8939	 mennyivesznek: 24083
+name: Amethyst Lump	 price: 7.0	 eladodbszam: 5207	 mennyivesznek: 8786
+name: Vial of Potent Blood	 price: 4.9	 eladodbszam: 53947	 mennyivesznek: 69428

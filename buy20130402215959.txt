@@ -1,0 +1,61 @@
+name: Super Staff Skin	 price: 17146.5
+name: Pink Quaggan Backpack Cover	 price: 12105.1
+name: Super Scepter Skin	 price: 12004.3
+name: Super Short Bow Skin	 price: 11057.9
+name: Knight's Pearl Shell	 price: 10751.3
+name: Ruinmaker	 price: 10723.3
+name: Eir's Short Bow	 price: 9009.7
+name: Superior Rune of Divinity	 price: 6854.4
+name: Midnight Fire Dye	 price: 6844.6
+name: Berserker's Pearl Needler	 price: 6545.0
+name: Shield of the Wing	 price: 6502.3
+name: Drakevenom	 price: 6423.9
+name: Emberspire	 price: 6273.4
+name: Carrion Exalted Gloves	 price: 5427.8
+name: Superior Rune of the Air	 price: 5247.2
+name: Mhenlo's Gloves	 price: 5105.8
+name: White Dye	 price: 4480.7
+name: Ruby Orichalcum Amulet of the Berserker	 price: 4480.0
+name: Kymswarden	 price: 3847.2
+name: Explorer's Pearl Rod	 price: 3515.4
+name: Zhaitan's Reach	 price: 3278.8
+name: Windstorm	 price: 3151.4
+name: Apothecary's Exalted Pants	 price: 3150.0
+name: Shard of the Deep	 price: 3144.4
+name: Superior Rune of the Ranger	 price: 2545.9
+name: Superior Sigil of Accuracy	 price: 2405.9
+name: Siren's Call	 price: 2302.3
+name: Soldier's Field Guide	 price: 2280.6
+name: Emerald Mithril Amulet of the Knight	 price: 2093.7
+name: Berserker's Acolyte Boots of the Dolyak	 price: 1742.3
+name: Rampager's Hammer of Bloodlust	 price: 1159.9
+name: Carrion Flame Greatsword of Air	 price: 1126.3
+name: Ravaging Cabalist Boots of Vampirism	 price: 911.4
+name: Carrion Mithril Plated Inscription	 price: 903.7
+name: Strong Conjurer Chest	 price: 864.5
+name: Berserker's Staff of Restoration	 price: 834.4
+name: Cleric's Greatsword of Accuracy	 price: 820.4
+name: Berserker's Shield of Ogre Slaying	 price: 673.4
+name: Carrion Verdant Dagger of Air	 price: 608.3
+name: Strong Conjurer Gloves	 price: 548.8
+name: Berserker's Pirate Mask of Melandru	 price: 511.7
+name: Ruby Platinum Amulet of the Berserker	 price: 511.0
+name: Strong Banded Gauntlets	 price: 497.0
+name: Rampager's Rifle of Corruption	 price: 453.6
+name: Sage Dye	 price: 432.6
+name: Mini Krait Slaver	 price: 374.5
+name: Explorer's Noble Gloves	 price: 343.7
+name: Water Filter	 price: 165.2
+name: Vicious Fang	 price: 151.9
+name: Vigorous Seasoned Inscription	 price: 108.5
+name: Major Rune of Grenth	 price: 65.8
+name: Rampager's Barbaric Coat	 price: 65.1
+name: Elaborate Totem	 price: 61.6
+name: Major Sigil of Ice	 price: 49.7
+name: Nougat Center	 price: 20.3
+name: Bone Shard	 price: 18.9
+name: Pile of Incandescent Dust	 price: 11.9
+name: Pile of Shimmering Dust	 price: 11.2
+name: Pile of Radiant Dust	 price: 8.4
+name: Large Fang	 price: 7.7
+name: Tiny Fang	 price: 2.8

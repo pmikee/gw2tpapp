@@ -1,0 +1,51 @@
+name: Midnight Ice Dye	 price: 9806.3
+name: Black Dye	 price: 8745.1
+name: Midnight Fire Dye	 price: 6987.4
+name: Ak-Muhl's Jaw	 price: 4841.9
+name: Kymswarden	 price: 3848.6
+name: Carrion Tribal Shield of Rage	 price: 3413.2
+name: Rampager's Focus of Water	 price: 3385.2
+name: Opal Orichalcum Earring of the Explorer	 price: 3303.3
+name: The Hunt	 price: 3068.8
+name: Ogden's Mask	 price: 3009.3
+name: Carrion Acolyte Mask of the Grove	 price: 2930.2
+name: Superior Sigil of Perception	 price: 2779.0
+name: Superior Sigil of the Night	 price: 2050.3
+name: Superior Rune of Strength	 price: 1942.5
+name: Hearty Gladiator Chestplate	 price: 1740.2
+name: Berserker's Bow of the Hydromancer	 price: 1414.7
+name: Superior Rune of the Mesmer	 price: 1240.4
+name: Winter Ice Dye	 price: 1003.1
+name: Chrysocola Mithril Ring of Carrion	 price: 979.3
+name: Berserker's Duelist Boots of the Citadel	 price: 972.3
+name: 15 Slot Oiled Leather Pack	 price: 955.5
+name: Ravaging Reinforced Scale Boots of Rage	 price: 916.3
+name: Onyx Lodestone	 price: 898.1
+name: Rampager's Staff of Accuracy	 price: 836.5
+name: Carrion Verdant Staff of Air	 price: 765.8
+name: Superior Rune of the Soldier	 price: 702.1
+name: Vigorous Masquerade Gloves	 price: 630.0
+name: Exquisite Ruby Jewel	 price: 606.9
+name: Cleric's Greatsword of Debility	 price: 604.1
+name: Berserker's Duelist Pauldrons of Grenth	 price: 563.5
+name: Carrion Verdant Shield of Air	 price: 491.4
+name: Strong Greatsword of Energy	 price: 484.4
+name: Berserker's Pistol of Fire	 price: 474.6
+name: Superior Rune of the Engineer	 price: 420.0
+name: Pillaging Bandit Ward	 price: 387.8
+name: Corrupted Core	 price: 363.3
+name: Strong Reinforced Scale Pauldrons of Melandru	 price: 352.8
+name: Molten Fragment	 price: 269.5
+name: Carrion Rogue Pauldrons of the Grove	 price: 247.8
+name: Rampager's Pirate Boots of Infiltration	 price: 154.0
+name: Ravaging Swindler Boots of the Citadel	 price: 125.3
+name: Major Rune of Balthazar	 price: 107.1
+name: Mighty Magician Legs of Rage	 price: 81.2
+name: Major Sigil of Debility	 price: 79.1
+name: Major Sigil of Justice	 price: 62.3
+name: Resilient Embroidered Sandals	 price: 41.3
+name: Major Sigil of Dreams	 price: 39.9
+name: Chocolate Raspberry Cream	 price: 32.9
+name: Major Rune of the Afflicted	 price: 27.3
+name: Small Totem	 price: 21.0
+name: Smooth Scale	 price: 21.0

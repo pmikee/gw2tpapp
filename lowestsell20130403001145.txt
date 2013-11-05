@@ -1,0 +1,83 @@
+name: Naegling	 price: 41250.3	 eladodbszam: 15	 mennyivesznek: 151
+name: Berserker's Amulet	 price: 12924.1	 eladodbszam: 53	 mennyivesznek: 54
+name: Knight's Pearl Carver	 price: 10885.0	 eladodbszam: 27	 mennyivesznek: 56
+name: Eir's Longbow	 price: 9158.1	 eladodbszam: 60	 mennyivesznek: 181
+name: Deathwish	 price: 8733.2	 eladodbszam: 74	 mennyivesznek: 107
+name: Super Long Bow Skin	 price: 8675.8	 eladodbszam: 55	 mennyivesznek: 110
+name: Berserker's Pearl Carver	 price: 7422.1	 eladodbszam: 45	 mennyivesznek: 170
+name: Traveler's Orrian Staff of Accuracy	 price: 7388.5	 eladodbszam: 73	 mennyivesznek: 64
+name: Rampager's Pearl Stinger	 price: 6720.0	 eladodbszam: 54	 mennyivesznek: 30
+name: Explorer's Pearl Broadsword	 price: 5581.8	 eladodbszam: 25	 mennyivesznek: 85
+name: Superior Rune of the Eagle	 price: 5371.1	 eladodbszam: 193	 mennyivesznek: 490
+name: Winged Spatha	 price: 5201.7	 eladodbszam: 53	 mennyivesznek: 61
+name: Shaman's Etched Scepter of Rage	 price: 4853.8	 eladodbszam: 32	 mennyivesznek: 22
+name: Superior Sigil of Battle	 price: 4753.0	 eladodbszam: 109	 mennyivesznek: 147
+name: Knot of Justice	 price: 4339.3	 eladodbszam: 69	 mennyivesznek: 61
+name: Valkyrie Pearl Broadsword	 price: 4057.2	 eladodbszam: 62	 mennyivesznek: 112
+name: Gearbore	 price: 3901.1	 eladodbszam: 66	 mennyivesznek: 35
+name: Ruby Orichalcum Amulet of the Berserker	 price: 3833.2	 eladodbszam: 175	 mennyivesznek: 169
+name: Superior Sigil of Corruption	 price: 3772.3	 eladodbszam: 230	 mennyivesznek: 207
+name: Rurik's Gauntlets	 price: 3612.7	 eladodbszam: 47	 mennyivesznek: 23
+name: Resonator	 price: 3567.2	 eladodbszam: 78	 mennyivesznek: 28
+name: Pact Avenger of Force	 price: 3278.1	 eladodbszam: 72	 mennyivesznek: 89
+name: Rampager's Emblazoned Helm	 price: 3170.3	 eladodbszam: 41	 mennyivesznek: 33
+name: Superior Rune of the Wurm	 price: 3147.9	 eladodbszam: 121	 mennyivesznek: 184
+name: Superior Sigil of Restoration	 price: 3041.5	 eladodbszam: 77	 mennyivesznek: 120
+name: Axiquiotl	 price: 2971.5	 eladodbszam: 131	 mennyivesznek: 148
+name: Superior Rune of Scavenging	 price: 2917.6	 eladodbszam: 185	 mennyivesznek: 361
+name: Superior Sigil of Blood	 price: 2540.3	 eladodbszam: 156	 mennyivesznek: 221
+name: Master's Training Manual	 price: 2454.9	 eladodbszam: 128	 mennyivesznek: 615
+name: Soldier's Ring	 price: 2447.2	 eladodbszam: 39	 mennyivesznek: 128
+name: Grandmaster's Training Manual	 price: 2019.5	 eladodbszam: 134	 mennyivesznek: 906
+name: Ravaging Cabalist Coat of the Centaur	 price: 1934.8	 eladodbszam: 62	 mennyivesznek: 191
+name: Major Sigil of Karka Slaying	 price: 1897.7	 eladodbszam: 107	 mennyivesznek: 59
+name: Shaman's Norn Dagger of Air	 price: 1840.3	 eladodbszam: 234	 mennyivesznek: 206
+name: Rurik's Legplates	 price: 1782.9	 eladodbszam: 44	 mennyivesznek: 32
+name: Icing Dye	 price: 1606.5	 eladodbszam: 127	 mennyivesznek: 442
+name: Rampager's Hammer of Ice	 price: 1202.6	 eladodbszam: 36	 mennyivesznek: 162
+name: Berserker's Duelist Pants of Infiltration	 price: 1112.3	 eladodbszam: 161	 mennyivesznek: 50
+name: Chrysocola Mithril Ring of Carrion	 price: 1006.6	 eladodbszam: 185	 mennyivesznek: 142
+name: Superior Sigil of Luck	 price: 851.9	 eladodbszam: 947	 mennyivesznek: 324
+name: Valkyrie Gladiator Pauldrons	 price: 786.1	 eladodbszam: 46	 mennyivesznek: 13
+name: Superior Rune of the Pirate	 price: 721.0	 eladodbszam: 1696	 mennyivesznek: 1337
+name: Carrion Duelist Pauldrons of the Flock	 price: 700.0	 eladodbszam: 233	 mennyivesznek: 134
+name: Valkyrie Krait Recurve Bow	 price: 657.3	 eladodbszam: 128	 mennyivesznek: 29
+name: Mini Harpy Warrior	 price: 440.3	 eladodbszam: 185	 mennyivesznek: 194
+name: Mini Seraph Mage	 price: 431.2	 eladodbszam: 220	 mennyivesznek: 241
+name: Rampager's Ring	 price: 423.5	 eladodbszam: 246	 mennyivesznek: 118
+name: Mini Ettin	 price: 422.8	 eladodbszam: 213	 mennyivesznek: 472
+name: Mini Skale Blighter	 price: 406.0	 eladodbszam: 184	 mennyivesznek: 244
+name: Mini Krait Slaver	 price: 378.0	 eladodbszam: 184	 mennyivesznek: 173
+name: Carrion Amulet	 price: 358.4	 eladodbszam: 227	 mennyivesznek: 114
+name: Cleric's Conjurer Shoes of the Pack	 price: 354.9	 eladodbszam: 277	 mennyivesznek: 82
+name: Ravaging Conjurer Gloves of Mercy	 price: 315.7	 eladodbszam: 76	 mennyivesznek: 60
+name: Strong Pirate Gloves of Melandru	 price: 278.6	 eladodbszam: 148	 mennyivesznek: 304
+name: Midnight Green Dye	 price: 255.5	 eladodbszam: 238	 mennyivesznek: 479
+name: Rampager's Rogue Gloves of Rage	 price: 209.3	 eladodbszam: 329	 mennyivesznek: 105
+name: Strong Banded Helm of Balthazar	 price: 206.5	 eladodbszam: 257	 mennyivesznek: 1287
+name: Berserker's Conjurer Gloves of the Centaur	 price: 198.1	 eladodbszam: 197	 mennyivesznek: 91
+name: Grass Dye	 price: 192.5	 eladodbszam: 216	 mennyivesznek: 673
+name: Major Rune of the Warrior	 price: 163.8	 eladodbszam: 265	 mennyivesznek: 138
+name: Royal Purple Dye	 price: 147.0	 eladodbszam: 299	 mennyivesznek: 416
+name: Minor Rune of the Pirate	 price: 141.4	 eladodbszam: 245	 mennyivesznek: 505
+name: Major Rune of Divinity	 price: 139.3	 eladodbszam: 1322	 mennyivesznek: 1887
+name: Honed Cabalist Boots of Lyssa	 price: 138.6	 eladodbszam: 125	 mennyivesznek: 336
+name: Strong Magician Legs of Strength	 price: 130.9	 eladodbszam: 202	 mennyivesznek: 285
+name: Embellished Intricate Amethyst Jewel	 price: 124.6	 eladodbszam: 607	 mennyivesznek: 323
+name: Hearty Embroidered Wool Insignia	 price: 124.6	 eladodbszam: 1078	 mennyivesznek: 763
+name: Superior Rune of the Undead	 price: 105.0	 eladodbszam: 25527	 mennyivesznek: 919
+name: Explorer's Barbaric Coat	 price: 92.4	 eladodbszam: 72	 mennyivesznek: 273
+name: Vigorous Splint Helm	 price: 78.4	 eladodbszam: 408	 mennyivesznek: 51
+name: Molten Sliver	 price: 76.3	 eladodbszam: 1926	 mennyivesznek: 1464
+name: Mighty Swindler Gloves of Lyssa	 price: 74.9	 eladodbszam: 1559	 mennyivesznek: 103
+name: Mystic Coin	 price: 74.2	 eladodbszam: 71078	 mennyivesznek: 44268
+name: Major Rune of Lyssa	 price: 70.0	 eladodbszam: 843	 mennyivesznek: 1705
+name: Adorned Snowflake	 price: 67.9	 eladodbszam: 563	 mennyivesznek: 1156
+name: Brilliant Opal Jewel	 price: 48.3	 eladodbszam: 656	 mennyivesznek: 3
+name: Hardened Sharpening Stone	 price: 44.1	 eladodbszam: 12727	 mennyivesznek: 5671
+name: Brilliant Emerald Jewel	 price: 42.7	 eladodbszam: 797	 mennyivesznek: 18
+name: Sharp Fang	 price: 15.4	 eladodbszam: 62246	 mennyivesznek: 19978
+name: Pile of Shimmering Dust	 price: 8.4	 eladodbszam: 13260	 mennyivesznek: 83202
+name: Garnet Copper Ring of Might	 price: 7.0	 eladodbszam: 8527	 mennyivesznek: 3117
+name: Garnet Copper Stud of Might	 price: 7.0	 eladodbszam: 8049	 mennyivesznek: 214
+name: Ruminant Tonic	 price: 2.8	 eladodbszam: 8682	 mennyivesznek: 10213

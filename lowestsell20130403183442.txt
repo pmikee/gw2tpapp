@@ -1,0 +1,53 @@
+name: Mystic Claymore	 price: 13277.6	 eladodbszam: 41	 mennyivesznek: 192
+name: Berserker's Amulet	 price: 12787.6	 eladodbszam: 61	 mennyivesznek: 50
+name: Super Scepter Skin	 price: 8013.6	 eladodbszam: 77	 mennyivesznek: 110
+name: Knight's Exalted Masque	 price: 5634.3	 eladodbszam: 35	 mennyivesznek: 21
+name: Delusion	 price: 4758.6	 eladodbszam: 45	 mennyivesznek: 50
+name: Zhaitan's Reach	 price: 4193.7	 eladodbszam: 136	 mennyivesznek: 64
+name: Carrion Pearl Needler	 price: 4192.3	 eladodbszam: 44	 mennyivesznek: 23
+name: Berserker's Focus of Rage	 price: 3656.8	 eladodbszam: 54	 mennyivesznek: 82
+name: Superior Sigil of Force	 price: 3039.4	 eladodbszam: 88	 mennyivesznek: 723
+name: Pillar of Ulgoth	 price: 2802.8	 eladodbszam: 34	 mennyivesznek: 29
+name: Trident of the True Legion	 price: 2799.3	 eladodbszam: 65	 mennyivesznek: 20
+name: Grandmaster's Training Manual	 price: 2774.1	 eladodbszam: 128	 mennyivesznek: 887
+name: Strong Noble Gloves	 price: 2634.8	 eladodbszam: 9	 mennyivesznek: 14
+name: Valkyrie Gladiator Pauldrons	 price: 1593.9	 eladodbszam: 25	 mennyivesznek: 22
+name: Explorer's Gladiator Gauntlets	 price: 1398.6	 eladodbszam: 88	 mennyivesznek: 44
+name: Redemption Dye	 price: 1329.3	 eladodbszam: 133	 mennyivesznek: 233
+name: Unidentified Gray Dye	 price: 1176.7	 eladodbszam: 413	 mennyivesznek: 795
+name: Coral Mithril Amulet of the Rampager	 price: 1101.8	 eladodbszam: 127	 mennyivesznek: 77
+name: Superior Rune of the Soldier	 price: 1020.6	 eladodbszam: 474	 mennyivesznek: 697
+name: Cleric's Mace of Fire	 price: 640.5	 eladodbszam: 1	 mennyivesznek: 92
+name: Passion Flower	 price: 598.5	 eladodbszam: 1127	 mennyivesznek: 1980
+name: Ravaging Cabalist Legs of Scavenging	 price: 560.0	 eladodbszam: 56	 mennyivesznek: 148
+name: Berserker's Speargun of Grawl Slaying	 price: 483.0	 eladodbszam: 74	 mennyivesznek: 223
+name: Carrion Flame Short Bow of Air	 price: 475.3	 eladodbszam: 150	 mennyivesznek: 113
+name: Strong Pirate Shoulders of the Flock	 price: 461.3	 eladodbszam: 110	 mennyivesznek: 288
+name: Mini Ettin	 price: 388.5	 eladodbszam: 234	 mennyivesznek: 471
+name: Berserker's Rogue Pauldrons of the Flock	 price: 377.3	 eladodbszam: 181	 mennyivesznek: 50
+name: Rampager's Conjurer Mask of the Flock	 price: 371.0	 eladodbszam: 154	 mennyivesznek: 127
+name: Traveler's Banded Gauntlets of the Grove	 price: 347.2	 eladodbszam: 267	 mennyivesznek: 56
+name: Strong Outlaw Coat	 price: 337.4	 eladodbszam: 114	 mennyivesznek: 250
+name: Strong Pirate Gloves of Melandru	 price: 308.7	 eladodbszam: 147	 mennyivesznek: 285
+name: Wheat Dye	 price: 235.9	 eladodbszam: 119	 mennyivesznek: 296
+name: Pastel Blue Dye	 price: 221.2	 eladodbszam: 126	 mennyivesznek: 291
+name: Strong Sword of Venom	 price: 183.4	 eladodbszam: 152	 mennyivesznek: 1
+name: Rose Shade Dye	 price: 182.7	 eladodbszam: 248	 mennyivesznek: 207
+name: Honed Seasoned Inscription	 price: 167.3	 eladodbszam: 1283	 mennyivesznek: 1197
+name: Mighty Bronze Dagger	 price: 86.1	 eladodbszam: 317	 mennyivesznek: 1187
+name: Mending Shiverpeak Dirk of Debility	 price: 85.4	 eladodbszam: 151	 mennyivesznek: 0
+name: Loaf of Raspberry Peach Bread	 price: 75.6	 eladodbszam: 715	 mennyivesznek: 3715
+name: Chrysocola Mithril Earring of Carrion	 price: 74.2	 eladodbszam: 625	 mennyivesznek: 154
+name: Explorer's Hard Inscription	 price: 72.8	 eladodbszam: 3104	 mennyivesznek: 2165
+name: Malign Seeker Gloves	 price: 59.5	 eladodbszam: 680	 mennyivesznek: 8
+name: Major Sigil of Geomancy	 price: 51.1	 eladodbszam: 259	 mennyivesznek: 676
+name: Mighty Crude Focus	 price: 39.2	 eladodbszam: 188	 mennyivesznek: 14
+name: Umber Dye	 price: 30.8	 eladodbszam: 349	 mennyivesznek: 1184
+name: Small Venom Sac	 price: 19.6	 eladodbszam: 40690	 mennyivesznek: 53438
+name: Sharp Claw	 price: 18.9	 eladodbszam: 67091	 mennyivesznek: 26539
+name: Large Claw	 price: 15.4	 eladodbszam: 32825	 mennyivesznek: 105502
+name: Vial of Thin Blood	 price: 14.7	 eladodbszam: 37800	 mennyivesznek: 63534
+name: Omnomberry Bar	 price: 14.0	 eladodbszam: 30524	 mennyivesznek: 22644
+name: Pile of Luminous Dust	 price: 14.0	 eladodbszam: 61569	 mennyivesznek: 44334
+name: Tiny Totem	 price: 4.9	 eladodbszam: 68164	 mennyivesznek: 136512
+name: Large Fang	 price: 4.2	 eladodbszam: 21029	 mennyivesznek: 114791

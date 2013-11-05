@@ -1,0 +1,37 @@
+name: Tiger Charr Backpack Cover	 price: 13992.3	 eladodbszam: 98	 mennyivesznek: 37
+name: Super Sword Skin	 price: 13964.3	 eladodbszam: 71	 mennyivesznek: 128
+name: Shiro's Leggings	 price: 11746.7	 eladodbszam: 12	 mennyivesznek: 37
+name: Ruinmaker	 price: 10100.3	 eladodbszam: 39	 mennyivesznek: 83
+name: Berserker's Pearl Broadsword	 price: 7938.7	 eladodbszam: 46	 mennyivesznek: 521
+name: Kymswarden	 price: 3846.5	 eladodbszam: 63	 mennyivesznek: 232
+name: Khrysaor, the Golden Sword	 price: 3710.7	 eladodbszam: 75	 mennyivesznek: 96
+name: Final Curse	 price: 3636.5	 eladodbszam: 48	 mennyivesznek: 24
+name: Jalis' Legplates	 price: 3428.6	 eladodbszam: 38	 mennyivesznek: 23
+name: Nitro	 price: 3142.3	 eladodbszam: 81	 mennyivesznek: 14
+name: Superior Rune of the Elementalist	 price: 2051.0	 eladodbszam: 283	 mennyivesznek: 226
+name: Mini Air Elemental	 price: 1805.3	 eladodbszam: 99	 mennyivesznek: 194
+name: Rampager's Bow of Agony	 price: 695.1	 eladodbszam: 49	 mennyivesznek: 132
+name: Rampager's Bow of Serpent Slaying	 price: 678.3	 eladodbszam: 79	 mennyivesznek: 160
+name: Cleric's Dagger of Blood	 price: 619.5	 eladodbszam: 118	 mennyivesznek: 223
+name: Traveler's Orrian Bow of Air	 price: 510.3	 eladodbszam: 74	 mennyivesznek: 1106
+name: Valkyrie Masquerade Mask	 price: 509.6	 eladodbszam: 83	 mennyivesznek: 80
+name: Berserker's Banded Greaves of the Eagle	 price: 417.9	 eladodbszam: 207	 mennyivesznek: 57
+name: Destroyer Core	 price: 379.4	 eladodbszam: 1864	 mennyivesznek: 2654
+name: Strong Banded Gauntlets of Lyssa	 price: 358.4	 eladodbszam: 439	 mennyivesznek: 224
+name: Shaman's Rogue Pants of Rage	 price: 323.4	 eladodbszam: 273	 mennyivesznek: 61
+name: Cleric's Pirate Mask of Vampirism	 price: 319.2	 eladodbszam: 345	 mennyivesznek: 82
+name: Explorer's Feathered Vestments	 price: 125.3	 eladodbszam: 223	 mennyivesznek: 110
+name: Elaborate Totem	 price: 98.0	 eladodbszam: 11321	 mennyivesznek: 10901
+name: Vial of Powerful Blood	 price: 83.3	 eladodbszam: 3140	 mennyivesznek: 31566
+name: Rampager's Dagger of Smoldering	 price: 51.8	 eladodbszam: 112	 mennyivesznek: 48
+name: Major Sigil of Smothering	 price: 45.5	 eladodbszam: 303	 mennyivesznek: 2447
+name: Scale	 price: 40.6	 eladodbszam: 6313	 mennyivesznek: 85309
+name: Mighty Greatsword	 price: 39.9	 eladodbszam: 3557	 mennyivesznek: 1056
+name: Engraved Totem	 price: 37.1	 eladodbszam: 26838	 mennyivesznek: 48999
+name: Small Totem	 price: 23.1	 eladodbszam: 14489	 mennyivesznek: 37675
+name: Large Scale	 price: 21.0	 eladodbszam: 21763	 mennyivesznek: 76145
+name: Lapis Lump	 price: 14.7	 eladodbszam: 9110	 mennyivesznek: 9516
+name: Ruby Shard	 price: 13.3	 eladodbszam: 11609	 mennyivesznek: 7694
+name: Minor Sigil of Smothering	 price: 7.7	 eladodbszam: 6128	 mennyivesznek: 540
+name: Turquoise Pebble	 price: 5.6	 eladodbszam: 8131	 mennyivesznek: 38000
+name: Emerald Shard	 price: 3.5	 eladodbszam: 6281	 mennyivesznek: 2709

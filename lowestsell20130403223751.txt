@@ -1,0 +1,525 @@
+name: Spark	 price: 1064000.0	 eladodbszam: 6	 mennyivesznek: 1506
+name: Dawn	 price: 629721.4	 eladodbszam: 15	 mennyivesznek: 1553
+name: Abyssal Scepter	 price: 400075.9	 eladodbszam: 12	 mennyivesznek: 74
+name: Ghastly Grinning Shield Skin	 price: 314578.6	 eladodbszam: 19	 mennyivesznek: 915
+name: Carcharias	 price: 130705.4	 eladodbszam: 24	 mennyivesznek: 35
+name: Corrupted Shard	 price: 64434.3	 eladodbszam: 15	 mennyivesznek: 163
+name: Axe	 price: 21573.3	 eladodbszam: 5	 mennyivesznek: 67
+name: Nightmare Coil	 price: 20925.1	 eladodbszam: 15	 mennyivesznek: 107
+name: Final Rest	 price: 16804.2	 eladodbszam: 154	 mennyivesznek: 231
+name: Super Staff Skin	 price: 15674.4	 eladodbszam: 74	 mennyivesznek: 144
+name: Bramblethorne	 price: 14712.6	 eladodbszam: 34	 mennyivesznek: 64
+name: Shaman's Norn Staff of Energy	 price: 14350.0	 eladodbszam: 2	 mennyivesznek: 105
+name: Mystic Barricade	 price: 14091.0	 eladodbszam: 13	 mennyivesznek: 17
+name: Super Shield Skin	 price: 12600.0	 eladodbszam: 49	 mennyivesznek: 166
+name: Traveler's Ceremonial Dagger of Rage	 price: 11953.9	 eladodbszam: 51	 mennyivesznek: 13
+name: Aidan's Coat	 price: 11580.8	 eladodbszam: 34	 mennyivesznek: 288
+name: Aidan's Gloves	 price: 11358.2	 eladodbszam: 20	 mennyivesznek: 154
+name: Rampager's Greatsword of Demon Summoning	 price: 10586.8	 eladodbszam: 7	 mennyivesznek: 109
+name: Khrysaor, the Golden Sword	 price: 9725.8	 eladodbszam: 70	 mennyivesznek: 97
+name: Zhed's Boots	 price: 9510.2	 eladodbszam: 40	 mennyivesznek: 80
+name: Carrion Pit Fighter Chest of the Afflicted	 price: 9441.6	 eladodbszam: 14	 mennyivesznek: 27
+name: Mini White Moa	 price: 9396.8	 eladodbszam: 62	 mennyivesznek: 116
+name: Apothecary's Emblazoned Boots	 price: 9244.9	 eladodbszam: 25	 mennyivesznek: 13
+name: Carrion Legionnaire Trident of Accuracy	 price: 9242.1	 eladodbszam: 7	 mennyivesznek: 16
+name: Nika's Pauldrons	 price: 9127.3	 eladodbszam: 24	 mennyivesznek: 64
+name: Bow of the White Hart	 price: 9083.9	 eladodbszam: 34	 mennyivesznek: 110
+name: Mini Snow Leopard	 price: 9026.5	 eladodbszam: 43	 mennyivesznek: 167
+name: Pillar of Ulgoth	 price: 8748.6	 eladodbszam: 33	 mennyivesznek: 28
+name: Black Dye	 price: 8590.4	 eladodbszam: 152	 mennyivesznek: 5298
+name: Pink Quaggan Backpack Cover	 price: 8555.4	 eladodbszam: 76	 mennyivesznek: 138
+name: Berserker's Pearl Handcannon	 price: 8328.6	 eladodbszam: 36	 mennyivesznek: 91
+name: Dagger	 price: 8187.2	 eladodbszam: 2	 mennyivesznek: 52
+name: Knight's Pearl Reaver	 price: 7813.4	 eladodbszam: 39	 mennyivesznek: 22
+name: Zhed's Mask	 price: 7737.1	 eladodbszam: 41	 mennyivesznek: 56
+name: Cleric's Exalted Boots	 price: 7485.8	 eladodbszam: 65	 mennyivesznek: 16
+name: Vatlaaw's Pauldrons	 price: 7284.9	 eladodbszam: 49	 mennyivesznek: 29
+name: Carrion Tribal Staff of Rage	 price: 6925.1	 eladodbszam: 50	 mennyivesznek: 58
+name: Valkyrie Emblazoned Boots	 price: 6857.2	 eladodbszam: 26	 mennyivesznek: 12
+name: Carrion Tribal Greatsword of Intelligence	 price: 6809.6	 eladodbszam: 16	 mennyivesznek: 35
+name: Aidan's Pauldrons	 price: 6799.8	 eladodbszam: 40	 mennyivesznek: 112
+name: Traveler's Orrian Dagger of Intelligence	 price: 6787.2	 eladodbszam: 25	 mennyivesznek: 47
+name: Carrion Tribal Sword of Rage	 price: 6785.1	 eladodbszam: 57	 mennyivesznek: 33
+name: Explorer's Pearl Carver	 price: 6773.2	 eladodbszam: 68	 mennyivesznek: 28
+name: Berserker's Pearl Impaler	 price: 6707.4	 eladodbszam: 34	 mennyivesznek: 28
+name: Valkyrie Pearl Blunderbuss	 price: 6439.3	 eladodbszam: 41	 mennyivesznek: 22
+name: Crystalline Blade	 price: 6389.6	 eladodbszam: 47	 mennyivesznek: 77
+name: Explorer's Emblazoned Helm	 price: 6343.4	 eladodbszam: 47	 mennyivesznek: 27
+name: Ogden's Leggings	 price: 6143.9	 eladodbszam: 36	 mennyivesznek: 19
+name: Rampager's Greatsword of Water	 price: 6125.0	 eladodbszam: 64	 mennyivesznek: 53
+name: Pact Herald of Force	 price: 6064.8	 eladodbszam: 19	 mennyivesznek: 39
+name: Berserker's Exalted Masque	 price: 6057.8	 eladodbszam: 37	 mennyivesznek: 37
+name: Traveler's Ceremonial Scepter of Accuracy	 price: 5921.3	 eladodbszam: 34	 mennyivesznek: 10
+name: Berserker's Bow of Purity	 price: 5847.8	 eladodbszam: 4	 mennyivesznek: 62
+name: Rampager's Emblazoned Gloves	 price: 5780.6	 eladodbszam: 41	 mennyivesznek: 11
+name: Pact Morning Star of Force	 price: 5735.1	 eladodbszam: 29	 mennyivesznek: 40
+name: Rampager's Hammer of Purity	 price: 5673.5	 eladodbszam: 43	 mennyivesznek: 59
+name: Berserker's Draconic Helm	 price: 5569.9	 eladodbszam: 54	 mennyivesznek: 53
+name: Valkyrie Draconic Boots	 price: 5460.0	 eladodbszam: 48	 mennyivesznek: 22
+name: Explorer's Emblazoned Boots	 price: 5423.6	 eladodbszam: 45	 mennyivesznek: 19
+name: Mhenlo's Coat	 price: 5418.0	 eladodbszam: 48	 mennyivesznek: 54
+name: Knight's Emblazoned Coat	 price: 5360.6	 eladodbszam: 120	 mennyivesznek: 37
+name: Superior Sigil of Battle	 price: 5359.2	 eladodbszam: 89	 mennyivesznek: 141
+name: Pact Shotgun of Force	 price: 5294.8	 eladodbszam: 26	 mennyivesznek: 38
+name: Carrion Exalted Gloves	 price: 5207.3	 eladodbszam: 12	 mennyivesznek: 15
+name: Carrion Pearl Stinger	 price: 5040.7	 eladodbszam: 38	 mennyivesznek: 33
+name: Bow of the Pale Stag	 price: 4993.1	 eladodbszam: 60	 mennyivesznek: 136
+name: Explorer's Intricate Gossamer Insignia	 price: 4826.5	 eladodbszam: 45	 mennyivesznek: 45
+name: Dragonshot	 price: 4804.8	 eladodbszam: 78	 mennyivesznek: 38
+name: Valkyrie Exalted Mantle	 price: 4591.3	 eladodbszam: 61	 mennyivesznek: 11
+name: Berserker's Torch of Life	 price: 4546.5	 eladodbszam: 44	 mennyivesznek: 18
+name: Coral Orichalcum Amulet of the Rampager	 price: 4438.7	 eladodbszam: 43	 mennyivesznek: 27
+name: Shield of the Wing	 price: 4277.7	 eladodbszam: 66	 mennyivesznek: 54
+name: Explorer's Pearl Broadsword	 price: 4225.2	 eladodbszam: 57	 mennyivesznek: 59
+name: Breath of Kralkatorrik	 price: 4186.7	 eladodbszam: 29	 mennyivesznek: 39
+name: Cleric's Amulet	 price: 4071.9	 eladodbszam: 108	 mennyivesznek: 41
+name: Superior Sigil of Strength	 price: 4048.8	 eladodbszam: 124	 mennyivesznek: 191
+name: Axiquiotl	 price: 3962.0	 eladodbszam: 118	 mennyivesznek: 131
+name: Carrion Pearl Crusher	 price: 3905.3	 eladodbszam: 39	 mennyivesznek: 18
+name: Grimward	 price: 3801.7	 eladodbszam: 37	 mennyivesznek: 37
+name: Cleric's Ogre Javelin	 price: 3761.1	 eladodbszam: 21	 mennyivesznek: 55
+name: Rampager's Pearl Brazier	 price: 3714.2	 eladodbszam: 42	 mennyivesznek: 14
+name: Sun God's Gift	 price: 3633.7	 eladodbszam: 82	 mennyivesznek: 36
+name: Carrion Pearl Impaler	 price: 3565.1	 eladodbszam: 23	 mennyivesznek: 12
+name: Sarraceinaceae	 price: 3565.1	 eladodbszam: 58	 mennyivesznek: 28
+name: Ruby Orichalcum Ring of the Berserker	 price: 3492.3	 eladodbszam: 391	 mennyivesznek: 290
+name: Traveler's Ceremonial Longbow of Rage	 price: 3434.9	 eladodbszam: 36	 mennyivesznek: 18
+name: Mhenlo's Leggings	 price: 3425.8	 eladodbszam: 82	 mennyivesznek: 32
+name: Reyna's Gloves	 price: 3402.0	 eladodbszam: 45	 mennyivesznek: 17
+name: Ogden's Gloves	 price: 3400.6	 eladodbszam: 42	 mennyivesznek: 32
+name: Vigorous Dredge Pulverizer	 price: 3322.2	 eladodbszam: 4	 mennyivesznek: 33
+name: Vatlaaw's Leggings	 price: 3239.6	 eladodbszam: 46	 mennyivesznek: 15
+name: Honed Dredge Baton	 price: 3087.7	 eladodbszam: 17	 mennyivesznek: 18
+name: Traveler's Ceremonial Torch of Rage	 price: 3034.5	 eladodbszam: 44	 mennyivesznek: 25
+name: Strong Dredge Baton	 price: 2976.4	 eladodbszam: 7	 mennyivesznek: 31
+name: The Hunt	 price: 2949.8	 eladodbszam: 115	 mennyivesznek: 29
+name: Moonshine	 price: 2890.3	 eladodbszam: 104	 mennyivesznek: 31
+name: Emerald Orichalcum Earring of the Knight	 price: 2868.6	 eladodbszam: 189	 mennyivesznek: 73
+name: Strong Noble Gloves	 price: 2849.0	 eladodbszam: 4	 mennyivesznek: 13
+name: Ogden's Mask	 price: 2698.5	 eladodbszam: 108	 mennyivesznek: 64
+name: Ravaging Cabalist Legs of Scavenging	 price: 2675.4	 eladodbszam: 52	 mennyivesznek: 146
+name: Recipe: Extended Potion of Flame Legion Slaying	 price: 2635.5	 eladodbszam: 18	 mennyivesznek: 34
+name: Rampager's Intricate Gossamer Insignia	 price: 2543.8	 eladodbszam: 52	 mennyivesznek: 54
+name: Drakestrike	 price: 2520.0	 eladodbszam: 82	 mennyivesznek: 15
+name: Shaman's Amulet	 price: 2414.3	 eladodbszam: 81	 mennyivesznek: 26
+name: Beacon of Kryta	 price: 2400.3	 eladodbszam: 85	 mennyivesznek: 25
+name: Vigorous Gladiator Helm	 price: 2389.8	 eladodbszam: 20	 mennyivesznek: 16
+name: Rampager's Speargun of Energy	 price: 2270.8	 eladodbszam: 8	 mennyivesznek: 32
+name: Soldier's Field Guide	 price: 2264.5	 eladodbszam: 77	 mennyivesznek: 108
+name: Pillaging Gladiator Pauldrons	 price: 2160.2	 eladodbszam: 25	 mennyivesznek: 32
+name: Ravaging Dredge Baton	 price: 2104.9	 eladodbszam: 14	 mennyivesznek: 20
+name: Valkyrie Noble Shoulders	 price: 2100.0	 eladodbszam: 12	 mennyivesznek: 44
+name: Berserker's Ogre Hornbow	 price: 2098.6	 eladodbszam: 18	 mennyivesznek: 26
+name: Berserker's Duelist Mask of Dwayna	 price: 1955.1	 eladodbszam: 113	 mennyivesznek: 62
+name: Vigorous Dredge Double Horn	 price: 1932.7	 eladodbszam: 16	 mennyivesznek: 24
+name: Superior Rune of the Ranger	 price: 1925.0	 eladodbszam: 391	 mennyivesznek: 626
+name: Charged Shard	 price: 1824.2	 eladodbszam: 244	 mennyivesznek: 417
+name: Amulet of the Dead	 price: 1808.8	 eladodbszam: 69	 mennyivesznek: 51
+name: Carrion Flame Greatsword of Air	 price: 1747.2	 eladodbszam: 42	 mennyivesznek: 268
+name: Hearty Gladiator Chestplate	 price: 1744.4	 eladodbszam: 38	 mennyivesznek: 33
+name: Apothecary's Mithril Imbued Inscription	 price: 1691.9	 eladodbszam: 402	 mennyivesznek: 119
+name: Sapphire Mithril Amulet of the Cleric	 price: 1682.1	 eladodbszam: 110	 mennyivesznek: 13
+name: Hearty Splint Legs	 price: 1672.3	 eladodbszam: 2	 mennyivesznek: 196
+name: Superior Sigil of Agony	 price: 1653.4	 eladodbszam: 102	 mennyivesznek: 142
+name: Carrion Duelist Coat of the Dolyak	 price: 1639.4	 eladodbszam: 125	 mennyivesznek: 49
+name: Berserker's Duelist Pauldrons of Balthazar	 price: 1635.9	 eladodbszam: 143	 mennyivesznek: 80
+name: Strong Reinforced Scale Legs of the Afflicted	 price: 1631.0	 eladodbszam: 57	 mennyivesznek: 144
+name: Hearty Masquerade Mantle	 price: 1620.5	 eladodbszam: 15	 mennyivesznek: 38
+name: Traveler's Orrian Bow of Air	 price: 1610.0	 eladodbszam: 44	 mennyivesznek: 1105
+name: Honed Banded Legs of the Traveler	 price: 1566.6	 eladodbszam: 68	 mennyivesznek: 66
+name: Berserker's Acolyte Boots of the Citadel	 price: 1530.2	 eladodbszam: 195	 mennyivesznek: 156
+name: Knight's Gladiator Chestplate	 price: 1485.4	 eladodbszam: 18	 mennyivesznek: 43
+name: Honed Gladiator Pauldrons	 price: 1451.1	 eladodbszam: 28	 mennyivesznek: 98
+name: Berserker's Duelist Pauldrons of Dwayna	 price: 1410.5	 eladodbszam: 130	 mennyivesznek: 48
+name: Rampager's Rifle of Life	 price: 1407.7	 eladodbszam: 29	 mennyivesznek: 497
+name: Rampager's Greatsword of Blood	 price: 1401.4	 eladodbszam: 79	 mennyivesznek: 150
+name: Valkyrie Masquerade Leggings	 price: 1325.1	 eladodbszam: 32	 mennyivesznek: 21
+name: Berserker's Hammer of Serpent Slaying	 price: 1317.4	 eladodbszam: 94	 mennyivesznek: 219
+name: Royal Blue Dye	 price: 1269.1	 eladodbszam: 109	 mennyivesznek: 443
+name: Malign Glyphic Longblade of Force	 price: 1260.7	 eladodbszam: 22	 mennyivesznek: 324
+name: Hearty Gladiator Helm	 price: 1256.5	 eladodbszam: 36	 mennyivesznek: 59
+name: Pillaging Gladiator Legplates	 price: 1239.0	 eladodbszam: 29	 mennyivesznek: 36
+name: Rampager's Noble Mask	 price: 1236.2	 eladodbszam: 27	 mennyivesznek: 18
+name: Mini Shade	 price: 1190.0	 eladodbszam: 70	 mennyivesznek: 252
+name: Strong Banded Helm	 price: 1184.4	 eladodbszam: 100	 mennyivesznek: 10
+name: Berserker's Rifle of Water	 price: 1171.1	 eladodbszam: 88	 mennyivesznek: 393
+name: Knight's Krait Shell	 price: 1152.2	 eladodbszam: 26	 mennyivesznek: 18
+name: Berserker's Hammer of Battle	 price: 1119.3	 eladodbszam: 39	 mennyivesznek: 281
+name: Cleric's Scepter of Force	 price: 1115.8	 eladodbszam: 41	 mennyivesznek: 64
+name: Berserker's Hammer of Energy	 price: 1110.2	 eladodbszam: 83	 mennyivesznek: 302
+name: Traveler's Aureate Targe of Air	 price: 1105.3	 eladodbszam: 47	 mennyivesznek: 184
+name: Cleric's Speargun of Battle	 price: 1094.8	 eladodbszam: 59	 mennyivesznek: 37
+name: Berserker's Krait Battleaxe	 price: 1085.7	 eladodbszam: 73	 mennyivesznek: 159
+name: Cleric's Dagger of Agony	 price: 1083.6	 eladodbszam: 41	 mennyivesznek: 205
+name: Rampager's Noble Boots	 price: 1082.2	 eladodbszam: 47	 mennyivesznek: 31
+name: Explorer's Krait Wand	 price: 1073.1	 eladodbszam: 36	 mennyivesznek: 107
+name: Rampager's Axe of Water	 price: 1061.9	 eladodbszam: 80	 mennyivesznek: 200
+name: Berserker's Shield of Bloodlust	 price: 1046.5	 eladodbszam: 75	 mennyivesznek: 223
+name: Rampager's Shield of Water	 price: 1044.4	 eladodbszam: 32	 mennyivesznek: 61
+name: Berserker's Rascal Pants	 price: 1028.3	 eladodbszam: 36	 mennyivesznek: 138
+name: Strong Reinforced Scale Helm of Strength	 price: 994.0	 eladodbszam: 99	 mennyivesznek: 175
+name: Berserker's Acolyte Gloves of the Centaur	 price: 993.3	 eladodbszam: 177	 mennyivesznek: 70
+name: Apothecary's Elder Trident	 price: 985.6	 eladodbszam: 32	 mennyivesznek: 10
+name: Strong Gladiator Legplates	 price: 975.8	 eladodbszam: 49	 mennyivesznek: 59
+name: Exquisite Chrysocola Jewel	 price: 965.3	 eladodbszam: 572	 mennyivesznek: 90
+name: Starry Night Dye	 price: 963.2	 eladodbszam: 174	 mennyivesznek: 222
+name: Passiflora Mithril Earring of the Apothecary	 price: 952.0	 eladodbszam: 128	 mennyivesznek: 87
+name: Mini Dredge Mining Suit	 price: 942.9	 eladodbszam: 88	 mennyivesznek: 111
+name: Berserker's Acolyte Coat of the Afflicted	 price: 933.8	 eladodbszam: 210	 mennyivesznek: 78
+name: Rampager's Krait Battleaxe	 price: 925.4	 eladodbszam: 49	 mennyivesznek: 104
+name: Berserker's Noble Gloves	 price: 917.7	 eladodbszam: 43	 mennyivesznek: 45
+name: Cleric's Bow of Debility	 price: 916.3	 eladodbszam: 57	 mennyivesznek: 148
+name: Cleric's Greatsword of Perception	 price: 905.1	 eladodbszam: 64	 mennyivesznek: 198
+name: Strong Bandit Bugle	 price: 903.7	 eladodbszam: 37	 mennyivesznek: 14
+name: Shaman's Rogue Pauldrons of Dwayna	 price: 893.9	 eladodbszam: 66	 mennyivesznek: 55
+name: Cleric's Shield of Water	 price: 893.9	 eladodbszam: 88	 mennyivesznek: 197
+name: Rejuvenating Noble Gloves	 price: 893.2	 eladodbszam: 21	 mennyivesznek: 31
+name: Valkyrie Noble Mask	 price: 887.6	 eladodbszam: 41	 mennyivesznek: 26
+name: Honed Banded Coat of Flame Legion	 price: 883.4	 eladodbszam: 107	 mennyivesznek: 116
+name: Carrion Ring	 price: 868.7	 eladodbszam: 208	 mennyivesznek: 97
+name: Carrion Flame Spear of Air	 price: 858.9	 eladodbszam: 83	 mennyivesznek: 127
+name: Carrion Verdant Short Bow of Air	 price: 854.7	 eladodbszam: 365	 mennyivesznek: 40
+name: Mending Norn Dagger of Battle	 price: 849.8	 eladodbszam: 58	 mennyivesznek: 115
+name: Valkyrie Noble Coat	 price: 840.7	 eladodbszam: 34	 mennyivesznek: 21
+name: Superior Rune of the Centaur	 price: 834.4	 eladodbszam: 345	 mennyivesznek: 278
+name: Carrion Flame Bow of Energy	 price: 834.4	 eladodbszam: 123	 mennyivesznek: 59
+name: Penetrating Aureate Dirk of Battle	 price: 828.1	 eladodbszam: 133	 mennyivesznek: 117
+name: Magi's Verdant Shield	 price: 816.2	 eladodbszam: 28	 mennyivesznek: 14
+name: Hearty Splint Coat	 price: 814.8	 eladodbszam: 100	 mennyivesznek: 166
+name: Rampager's Scepter of Agony	 price: 807.8	 eladodbszam: 34	 mennyivesznek: 35
+name: Berserker's Trident of Ice	 price: 800.8	 eladodbszam: 71	 mennyivesznek: 181
+name: Vigorous Acolyte Pants	 price: 797.3	 eladodbszam: 7	 mennyivesznek: 77
+name: Berserker's Scepter of Earth	 price: 789.6	 eladodbszam: 74	 mennyivesznek: 163
+name: Major Rune of Holding	 price: 776.3	 eladodbszam: 157	 mennyivesznek: 376
+name: Berserker's Shield of Corruption	 price: 772.8	 eladodbszam: 66	 mennyivesznek: 78
+name: Berserker's Sword of the Hydromancer	 price: 769.3	 eladodbszam: 122	 mennyivesznek: 218
+name: Strong Iron Imbued Inscription	 price: 766.5	 eladodbszam: 83	 mennyivesznek: 72
+name: Carrion Krait Short Bow	 price: 765.1	 eladodbszam: 34	 mennyivesznek: 38
+name: Rampager's Staff of Accuracy	 price: 762.3	 eladodbszam: 156	 mennyivesznek: 164
+name: Traveler's Aureate Short Bow of Air	 price: 760.9	 eladodbszam: 195	 mennyivesznek: 135
+name: Berserker's Axe of Bloodlust	 price: 744.1	 eladodbszam: 136	 mennyivesznek: 171
+name: Pillaging Noble Gloves	 price: 724.5	 eladodbszam: 26	 mennyivesznek: 26
+name: Superior Rune of the Pirate	 price: 707.7	 eladodbszam: 1754	 mennyivesznek: 1297
+name: Rampager's Torch of Force	 price: 701.4	 eladodbszam: 63	 mennyivesznek: 33
+name: Carrion Verdant Pistol of Air	 price: 700.7	 eladodbszam: 126	 mennyivesznek: 79
+name: Apothecary's Krait Machete	 price: 700.7	 eladodbszam: 42	 mennyivesznek: 47
+name: Knight's Krait Short Bow	 price: 698.6	 eladodbszam: 36	 mennyivesznek: 27
+name: Rampager's Trident of Earth	 price: 693.7	 eladodbszam: 150	 mennyivesznek: 226
+name: Godskull Slayer	 price: 690.2	 eladodbszam: 694	 mennyivesznek: 130
+name: Strong Reinforced Scale Pauldrons of Scavenging	 price: 681.8	 eladodbszam: 157	 mennyivesznek: 266
+name: Ravaging Bandit Longbow	 price: 676.9	 eladodbszam: 68	 mennyivesznek: 55
+name: Cleric's Gladiator Pauldrons	 price: 668.5	 eladodbszam: 66	 mennyivesznek: 10
+name: Berserker's Conjurer Gloves of Hoelbrak	 price: 667.8	 eladodbszam: 63	 mennyivesznek: 15
+name: Cleric's Dagger of Ogre Slaying	 price: 666.4	 eladodbszam: 27	 mennyivesznek: 198
+name: Rampager's Pistol of Peril	 price: 662.9	 eladodbszam: 102	 mennyivesznek: 76
+name: Explorer's Krait Pilum	 price: 662.2	 eladodbszam: 51	 mennyivesznek: 40
+name: Traveler's Orrian Axe of Air	 price: 656.6	 eladodbszam: 85	 mennyivesznek: 334
+name: Explorer's Krait Trident	 price: 654.5	 eladodbszam: 55	 mennyivesznek: 61
+name: Strong Banded Greaves	 price: 653.1	 eladodbszam: 69	 mennyivesznek: 49
+name: Shaman's Norn Short Bow of Air	 price: 636.3	 eladodbszam: 206	 mennyivesznek: 43
+name: Shaman's Norn Blade of Air	 price: 630.7	 eladodbszam: 124	 mennyivesznek: 266
+name: Cleric's Axe of Perception	 price: 630.7	 eladodbszam: 85	 mennyivesznek: 158
+name: Rampager's Krait Shell	 price: 630.0	 eladodbszam: 13	 mennyivesznek: 29
+name: Cleric's Mace of Chilling	 price: 630.0	 eladodbszam: 104	 mennyivesznek: 77
+name: Explorer's Krait Battleaxe	 price: 630.0	 eladodbszam: 96	 mennyivesznek: 52
+name: Cleric's Spear of Chilling	 price: 629.3	 eladodbszam: 141	 mennyivesznek: 88
+name: Embellished Brilliant Ruby Jewel	 price: 628.6	 eladodbszam: 256	 mennyivesznek: 288
+name: Traveler's Aureate Trident of Air	 price: 628.6	 eladodbszam: 134	 mennyivesznek: 78
+name: Carrion Verdant Bow of Air	 price: 626.5	 eladodbszam: 106	 mennyivesznek: 265
+name: Explorer's Krait Star	 price: 625.1	 eladodbszam: 123	 mennyivesznek: 63
+name: Berserker's Short Bow of Energy	 price: 623.7	 eladodbszam: 83	 mennyivesznek: 91
+name: Rampager's Banded Coat of Infiltration	 price: 622.3	 eladodbszam: 66	 mennyivesznek: 110
+name: Berserker's Conjurer Chest of Rage	 price: 620.2	 eladodbszam: 119	 mennyivesznek: 131
+name: Charged Core	 price: 618.8	 eladodbszam: 872	 mennyivesznek: 1355
+name: Berserker's Short Bow of Peril	 price: 615.3	 eladodbszam: 463	 mennyivesznek: 75
+name: Rampager's Speargun of Debility	 price: 607.6	 eladodbszam: 67	 mennyivesznek: 60
+name: Rampager's Focus of Venom	 price: 595.7	 eladodbszam: 103	 mennyivesznek: 84
+name: Superior Sigil of Frailty	 price: 595.7	 eladodbszam: 320	 mennyivesznek: 71
+name: Strong Banded Pauldrons	 price: 592.9	 eladodbszam: 122	 mennyivesznek: 26
+name: Strong Cabalist Gloves of Lyssa	 price: 592.2	 eladodbszam: 101	 mennyivesznek: 110
+name: Rampager's Mace of Smoldering	 price: 591.5	 eladodbszam: 130	 mennyivesznek: 79
+name: Magi's Verdant Pistol	 price: 581.7	 eladodbszam: 50	 mennyivesznek: 13
+name: Traveler's Aureate Mace of Air	 price: 580.3	 eladodbszam: 74	 mennyivesznek: 54
+name: Carrion Verdant Speargun of Air	 price: 578.2	 eladodbszam: 161	 mennyivesznek: 88
+name: Carrion Flame Trident of Air	 price: 576.8	 eladodbszam: 136	 mennyivesznek: 74
+name: Rampager's Short Bow of Grawl Slaying	 price: 574.7	 eladodbszam: 349	 mennyivesznek: 160
+name: Coral Platinum Earring of the Rampager	 price: 572.6	 eladodbszam: 54	 mennyivesznek: 14
+name: Carrion Amulet	 price: 572.6	 eladodbszam: 212	 mennyivesznek: 110
+name: Cleric's Short Bow of Grawl Slaying	 price: 566.3	 eladodbszam: 272	 mennyivesznek: 85
+name: Rampager's Axe of Energy	 price: 563.5	 eladodbszam: 76	 mennyivesznek: 48
+name: Traveler's Aureate Sconce of Air	 price: 562.8	 eladodbszam: 95	 mennyivesznek: 45
+name: Carrion Flame Blade of Air	 price: 560.0	 eladodbszam: 117	 mennyivesznek: 179
+name: Carrion Noble Mask	 price: 560.0	 eladodbszam: 112	 mennyivesznek: 92
+name: Rampager's Spear of Bloodlust	 price: 559.3	 eladodbszam: 132	 mennyivesznek: 57
+name: Carrion Verdant Blade of Air	 price: 558.6	 eladodbszam: 108	 mennyivesznek: 191
+name: Rampager's Gladiator Boots	 price: 557.2	 eladodbszam: 83	 mennyivesznek: 51
+name: Shaman's Amulet	 price: 557.2	 eladodbszam: 270	 mennyivesznek: 88
+name: Carrion Verdant Warhorn of Air	 price: 554.4	 eladodbszam: 210	 mennyivesznek: 116
+name: Traveler's Aureate Warhorn of Air	 price: 554.4	 eladodbszam: 157	 mennyivesznek: 29
+name: Carrion Noble Gloves	 price: 553.0	 eladodbszam: 99	 mennyivesznek: 28
+name: Rampager's Rogue Pauldrons of Hoelbrak	 price: 549.5	 eladodbszam: 75	 mennyivesznek: 14
+name: Carrion Krait Slayer	 price: 544.6	 eladodbszam: 344	 mennyivesznek: 483
+name: Strong Banded Helm	 price: 541.1	 eladodbszam: 62	 mennyivesznek: 14
+name: Traveler's Orrian Spear of Air	 price: 536.9	 eladodbszam: 139	 mennyivesznek: 131
+name: Traveler's Orrian Sabre of Air	 price: 536.2	 eladodbszam: 195	 mennyivesznek: 162
+name: Wine Dye	 price: 535.5	 eladodbszam: 227	 mennyivesznek: 219
+name: Strong Banded Coat	 price: 533.4	 eladodbszam: 84	 mennyivesznek: 29
+name: Soldier's Ring	 price: 529.9	 eladodbszam: 280	 mennyivesznek: 146
+name: Berserker's Torch of Restoration	 price: 524.3	 eladodbszam: 143	 mennyivesznek: 213
+name: Cleric's Axe of Smoldering	 price: 522.9	 eladodbszam: 30	 mennyivesznek: 34
+name: Shaman's Rogue Gloves of Vampirism	 price: 520.8	 eladodbszam: 34	 mennyivesznek: 13
+name: Cleric's Warhorn of Life	 price: 519.4	 eladodbszam: 129	 mennyivesznek: 97
+name: Traveler's Aureate Spear of Air	 price: 513.8	 eladodbszam: 81	 mennyivesznek: 75
+name: Berserker's Spear of Energy	 price: 513.8	 eladodbszam: 103	 mennyivesznek: 130
+name: Berserker's Spear of Blood	 price: 513.1	 eladodbszam: 123	 mennyivesznek: 91
+name: Turquoise Dye	 price: 511.0	 eladodbszam: 270	 mennyivesznek: 150
+name: Carrion Flame Short Bow of Water	 price: 510.3	 eladodbszam: 116	 mennyivesznek: 43
+name: Shaman's Norn Speargun of Air	 price: 505.4	 eladodbszam: 178	 mennyivesznek: 107
+name: Shaman's Amulet	 price: 505.4	 eladodbszam: 288	 mennyivesznek: 245
+name: Strong Conjurer Mask	 price: 503.3	 eladodbszam: 79	 mennyivesznek: 6
+name: Strong Conjurer Chest	 price: 498.4	 eladodbszam: 76	 mennyivesznek: 22
+name: Berserker's Staff of Earth	 price: 492.8	 eladodbszam: 179	 mennyivesznek: 87
+name: Berserker's Mace of Ogre Slaying	 price: 491.4	 eladodbszam: 27	 mennyivesznek: 100
+name: Cleric's Warhorn of Blood	 price: 489.3	 eladodbszam: 116	 mennyivesznek: 84
+name: Honed Dagger of Ice	 price: 488.6	 eladodbszam: 131	 mennyivesznek: 132
+name: Penetrating Aureate Mace of Earth	 price: 487.9	 eladodbszam: 188	 mennyivesznek: 43
+name: Berserker's Pistol of Accuracy	 price: 486.5	 eladodbszam: 172	 mennyivesznek: 110
+name: Berserker's Torch of Corruption	 price: 483.0	 eladodbszam: 124	 mennyivesznek: 120
+name: Strong Banded Gauntlets	 price: 478.1	 eladodbszam: 135	 mennyivesznek: 15
+name: Strong Conjurer Mask	 price: 472.5	 eladodbszam: 61	 mennyivesznek: 26
+name: Iris Dye	 price: 471.8	 eladodbszam: 234	 mennyivesznek: 249
+name: Recipe: Corrupted Shard	 price: 470.4	 eladodbszam: 32	 mennyivesznek: 67
+name: Shaman's Amulet	 price: 466.9	 eladodbszam: 68	 mennyivesznek: 28
+name: Honed Conjurer Mantle of Dwayna	 price: 462.7	 eladodbszam: 80	 mennyivesznek: 46
+name: Penetrating Aureate Charm of Earth	 price: 453.6	 eladodbszam: 204	 mennyivesznek: 0
+name: Wayfarer's Amulet	 price: 450.1	 eladodbszam: 109	 mennyivesznek: 16
+name: Giant Eye	 price: 446.6	 eladodbszam: 594	 mennyivesznek: 889
+name: Strong Pirate Gloves of Melandru	 price: 444.5	 eladodbszam: 136	 mennyivesznek: 279
+name: Cleric's Focus of the Hydromancer	 price: 444.5	 eladodbszam: 33	 mennyivesznek: 25
+name: Berserker's Sword of Perception	 price: 443.1	 eladodbszam: 467	 mennyivesznek: 98
+name: Cleric's Staff of Battle	 price: 442.4	 eladodbszam: 37	 mennyivesznek: 35
+name: Carrion Banded Gauntlets of Strength	 price: 438.9	 eladodbszam: 114	 mennyivesznek: 33
+name: Berserker's Warhorn of Agony	 price: 438.2	 eladodbszam: 197	 mennyivesznek: 88
+name: Berserker's Scepter of Earth	 price: 430.5	 eladodbszam: 159	 mennyivesznek: 67
+name: Maroon Dye	 price: 424.9	 eladodbszam: 150	 mennyivesznek: 179
+name: Berserker's Short Bow of Corruption	 price: 417.2	 eladodbszam: 301	 mennyivesznek: 167
+name: Strong Pirate Boots of Infiltration	 price: 413.0	 eladodbszam: 179	 mennyivesznek: 328
+name: Cleric's Greatsword of Blood	 price: 394.8	 eladodbszam: 80	 mennyivesznek: 185
+name: Penetrating Aureate Dirk of Earth	 price: 392.0	 eladodbszam: 91	 mennyivesznek: 74
+name: Amber Dye	 price: 387.1	 eladodbszam: 153	 mennyivesznek: 166
+name: Wrath Dye	 price: 383.6	 eladodbszam: 275	 mennyivesznek: 225
+name: Strong Cabalist Boots of Melandru	 price: 382.9	 eladodbszam: 137	 mennyivesznek: 330
+name: Honed Axe of Serpent Slaying	 price: 378.0	 eladodbszam: 266	 mennyivesznek: 150
+name: Hearty Speargun of Fire	 price: 374.5	 eladodbszam: 86	 mennyivesznek: 72
+name: Carrion Banded Greaves of the Traveler	 price: 364.0	 eladodbszam: 96	 mennyivesznek: 53
+name: Berserker's Shield of Venom	 price: 349.3	 eladodbszam: 134	 mennyivesznek: 61
+name: Carrion Flame Trident of Water	 price: 343.0	 eladodbszam: 95	 mennyivesznek: 77
+name: Strong Pirate Mask	 price: 340.2	 eladodbszam: 67	 mennyivesznek: 51
+name: Strong Cabalist Hood of Lyssa	 price: 332.5	 eladodbszam: 121	 mennyivesznek: 29
+name: Cleric's Rifle of Grawl Slaying	 price: 329.0	 eladodbszam: 110	 mennyivesznek: 140
+name: Shaman's Rogue Pants of Hoelbrak	 price: 324.8	 eladodbszam: 250	 mennyivesznek: 80
+name: Cleric's Pistol of the Hydromancer	 price: 315.0	 eladodbszam: 102	 mennyivesznek: 123
+name: Rampager's Cabalist Hood of Flame Legion	 price: 310.8	 eladodbszam: 158	 mennyivesznek: 81
+name: Strong Iron Dagger	 price: 306.6	 eladodbszam: 87	 mennyivesznek: 191
+name: Superior Sigil of Rage	 price: 301.7	 eladodbszam: 966	 mennyivesznek: 159
+name: Strong Cabalist Boots of the Afflicted	 price: 297.5	 eladodbszam: 120	 mennyivesznek: 280
+name: Superior Sigil of Nullification	 price: 296.1	 eladodbszam: 528	 mennyivesznek: 461
+name: Midnight Teal Dye	 price: 286.3	 eladodbszam: 232	 mennyivesznek: 258
+name: Carrion Glyphic Handblade of Earth	 price: 285.6	 eladodbszam: 53	 mennyivesznek: 64
+name: Ravaging Rogue Gloves of the Centaur	 price: 284.2	 eladodbszam: 74	 mennyivesznek: 18
+name: Ocean Dye	 price: 283.5	 eladodbszam: 124	 mennyivesznek: 248
+name: Berserker's Mace of the Geomancer	 price: 282.8	 eladodbszam: 123	 mennyivesznek: 111
+name: Rampager's Conjurer Pants of Infiltration	 price: 279.3	 eladodbszam: 309	 mennyivesznek: 54
+name: Ravaging Flame Crusher of Ogre Slaying	 price: 277.9	 eladodbszam: 375	 mennyivesznek: 30
+name: Ravaging Flame Trident of Battle	 price: 268.1	 eladodbszam: 220	 mennyivesznek: 31
+name: Ravaging Acolyte Coat	 price: 266.7	 eladodbszam: 38	 mennyivesznek: 174
+name: Rampager's Winged Pants	 price: 258.3	 eladodbszam: 96	 mennyivesznek: 2
+name: Malign Glyphic Scepter of Force	 price: 256.9	 eladodbszam: 103	 mennyivesznek: 80
+name: Berserker's Rascal Shoulders	 price: 256.2	 eladodbszam: 121	 mennyivesznek: 142
+name: Berserker's Axe of Peril	 price: 254.1	 eladodbszam: 372	 mennyivesznek: 224
+name: Explorer's Mithril Plated Inscription	 price: 245.7	 eladodbszam: 760	 mennyivesznek: 424
+name: Brilliant Passion Flower	 price: 242.2	 eladodbszam: 632	 mennyivesznek: 274
+name: Rampager's Cabalist Boots of Hoelbrak	 price: 238.0	 eladodbszam: 29	 mennyivesznek: 46
+name: Strong Reinforced Scale Gauntlets of the Flock	 price: 237.3	 eladodbszam: 362	 mennyivesznek: 334
+name: Embellished Brilliant Chrysocola Jewel	 price: 227.5	 eladodbszam: 1054	 mennyivesznek: 1395
+name: Malign Glyphic Longbow of Force	 price: 221.2	 eladodbszam: 105	 mennyivesznek: 96
+name: Rampager's Mithril Plated Inscription	 price: 217.7	 eladodbszam: 865	 mennyivesznek: 1127
+name: Vigorous Embroidered Cotton Insignia	 price: 214.2	 eladodbszam: 796	 mennyivesznek: 834
+name: Ravaging Steam Staff of Accuracy	 price: 203.0	 eladodbszam: 133	 mennyivesznek: 72
+name: Traveler's Orrian Longsword of Bloodlust	 price: 203.0	 eladodbszam: 101	 mennyivesznek: 78
+name: Honed Iron Plated Inscription	 price: 200.2	 eladodbszam: 729	 mennyivesznek: 737
+name: Walnut Dye	 price: 197.4	 eladodbszam: 162	 mennyivesznek: 345
+name: Princess Wand Skin	 price: 197.4	 eladodbszam: 9695	 mennyivesznek: 12889
+name: Honed Pirate Boots of the Centaur	 price: 191.8	 eladodbszam: 313	 mennyivesznek: 93
+name: Berserker's Pirate Boots of the Lich	 price: 189.0	 eladodbszam: 110	 mennyivesznek: 0
+name: Pink Dye	 price: 186.9	 eladodbszam: 195	 mennyivesznek: 425
+name: Penetrating Aureate Mace of Ogre Slaying	 price: 184.8	 eladodbszam: 553	 mennyivesznek: 113
+name: Midnight Fuchsia Dye	 price: 182.7	 eladodbszam: 315	 mennyivesznek: 302
+name: Sea Frost Dye	 price: 178.5	 eladodbszam: 232	 mennyivesznek: 201
+name: Hearty Acolyte Boots	 price: 175.7	 eladodbszam: 141	 mennyivesznek: 186
+name: Hearty Student Pants	 price: 174.3	 eladodbszam: 111	 mennyivesznek: 99
+name: Rampager's Sword of the Hydromancer	 price: 173.6	 eladodbszam: 89	 mennyivesznek: 0
+name: Vicious Fang	 price: 170.8	 eladodbszam: 4872	 mennyivesznek: 16413
+name: Chrysocola Platinum Earring of Carrion	 price: 168.0	 eladodbszam: 440	 mennyivesznek: 0
+name: Rejuvenating Cotton Insignia	 price: 167.3	 eladodbszam: 401	 mennyivesznek: 2037
+name: Jug of Confiscated Booze	 price: 166.6	 eladodbszam: 196	 mennyivesznek: 1149
+name: Book of Rabid Deeds	 price: 162.4	 eladodbszam: 144	 mennyivesznek: 100
+name: Honed Greatsword of Fire	 price: 161.0	 eladodbszam: 158	 mennyivesznek: 19
+name: Vicious Claw	 price: 160.3	 eladodbszam: 12547	 mennyivesznek: 15633
+name: Knight's Barbaric Gloves	 price: 158.9	 eladodbszam: 136	 mennyivesznek: 50
+name: Vigorous Embroidered Wool Insignia	 price: 158.9	 eladodbszam: 758	 mennyivesznek: 640
+name: Honed Pirate Hat of the Grove	 price: 158.9	 eladodbszam: 299	 mennyivesznek: 150
+name: Emerald Platinum Earring of the Knight	 price: 157.5	 eladodbszam: 681	 mennyivesznek: 0
+name: Knight's Hard Inscription	 price: 156.8	 eladodbszam: 1525	 mennyivesznek: 1025
+name: Rejuvenating Embroidered Wool Insignia	 price: 151.2	 eladodbszam: 472	 mennyivesznek: 1072
+name: Superior Sigil of Speed	 price: 151.2	 eladodbszam: 311	 mennyivesznek: 609
+name: Mighty Seeker Pants	 price: 147.7	 eladodbszam: 437	 mennyivesznek: 428
+name: Rampager's Focus of Hobbling	 price: 147.7	 eladodbszam: 98	 mennyivesznek: 0
+name: Strong Cabalist Legs of Melandru	 price: 140.7	 eladodbszam: 460	 mennyivesznek: 299
+name: Strong Outlaw Shoulders	 price: 140.0	 eladodbszam: 122	 mennyivesznek: 102
+name: Resilient Krytan Axe of Force	 price: 138.6	 eladodbszam: 294	 mennyivesznek: 0
+name: Cavalier's Glyphic Scepter	 price: 138.6	 eladodbszam: 83	 mennyivesznek: 0
+name: Strong Mace of Debility	 price: 137.9	 eladodbszam: 415	 mennyivesznek: 37
+name: Strong Pirate Hat of the Lich	 price: 134.4	 eladodbszam: 365	 mennyivesznek: 182
+name: Strong Cabalist Boots of the Grove	 price: 132.3	 eladodbszam: 183	 mennyivesznek: 0
+name: Strong Reinforced Scale Helm of the Flock	 price: 132.3	 eladodbszam: 111	 mennyivesznek: 130
+name: Berserker's Conjurer Mantle of the Afflicted	 price: 131.6	 eladodbszam: 131	 mennyivesznek: 70
+name: Shaman's Shiverpeak Dirk of Earth	 price: 130.2	 eladodbszam: 125	 mennyivesznek: 50
+name: Berserker's Focus of the Geomancer	 price: 128.1	 eladodbszam: 170	 mennyivesznek: 0
+name: Vigorous Outlaw Shoulders	 price: 127.4	 eladodbszam: 62	 mennyivesznek: 217
+name: Cleric's Hard Inscription	 price: 127.4	 eladodbszam: 1130	 mennyivesznek: 703
+name: Berserker's Warhorn of Corruption	 price: 126.0	 eladodbszam: 289	 mennyivesznek: 0
+name: Malign Steamblade of Agony	 price: 123.9	 eladodbszam: 376	 mennyivesznek: 195
+name: Vigorous Scale Coat	 price: 123.2	 eladodbszam: 149	 mennyivesznek: 82
+name: Traveler's Krytan Scepter of Bloodlust	 price: 122.5	 eladodbszam: 84	 mennyivesznek: 0
+name: Honed Iron Greatsword	 price: 122.5	 eladodbszam: 192	 mennyivesznek: 194
+name: Berserker's Torch of Earth	 price: 122.5	 eladodbszam: 364	 mennyivesznek: 0
+name: Strong Swindler Pauldrons of Vampirism	 price: 122.5	 eladodbszam: 558	 mennyivesznek: 131
+name: Ravaging Pirate Gloves of the Dolyak	 price: 121.1	 eladodbszam: 413	 mennyivesznek: 360
+name: Berserker's Reinforced Scale Boots of Vampirism	 price: 119.7	 eladodbszam: 295	 mennyivesznek: 0
+name: Heavy Armageddon Pauldrons	 price: 119.0	 eladodbszam: 151	 mennyivesznek: 0
+name: Carrion Cabalist Hood of the Centaur	 price: 118.3	 eladodbszam: 516	 mennyivesznek: 0
+name: Berserker's Conjurer Mantle of the Dolyak	 price: 117.6	 eladodbszam: 341	 mennyivesznek: 0
+name: Knight's Feathered Pants	 price: 117.6	 eladodbszam: 126	 mennyivesznek: 88
+name: Carrion Reinforced Scale Boots of Rage	 price: 117.6	 eladodbszam: 309	 mennyivesznek: 0
+name: Carrion Feathered Headpiece	 price: 115.5	 eladodbszam: 120	 mennyivesznek: 0
+name: Knight's Rascal Coat	 price: 113.4	 eladodbszam: 111	 mennyivesznek: 1
+name: Mighty Seeker Gloves	 price: 110.6	 eladodbszam: 403	 mennyivesznek: 186
+name: Major Rune of the Undead	 price: 108.5	 eladodbszam: 1228	 mennyivesznek: 1356
+name: Berserker's Sword of Air	 price: 107.1	 eladodbszam: 113	 mennyivesznek: 25
+name: Carrion Feathered Mantle	 price: 107.1	 eladodbszam: 53	 mennyivesznek: 152
+name: Mighty Embroidered Pants	 price: 105.0	 eladodbszam: 192	 mennyivesznek: 210
+name: Charr Sword of Force	 price: 105.0	 eladodbszam: 294	 mennyivesznek: 318
+name: Berserker's Mithril Dagger	 price: 104.3	 eladodbszam: 91	 mennyivesznek: 270
+name: Ravaging Conjurer Mask of the Rata Sum	 price: 96.6	 eladodbszam: 756	 mennyivesznek: 3
+name: Elaborate Totem	 price: 96.6	 eladodbszam: 11628	 mennyivesznek: 10899
+name: Mending Shiverpeak Dirk of Serpent Slaying	 price: 95.9	 eladodbszam: 109	 mennyivesznek: 0
+name: Strong Swindler Coat of the Flock	 price: 95.9	 eladodbszam: 444	 mennyivesznek: 9
+name: Seal of the Soldier	 price: 95.9	 eladodbszam: 1096	 mennyivesznek: 1
+name: Strong Worn Scale Gauntlets of the Rata Sum	 price: 95.2	 eladodbszam: 366	 mennyivesznek: 23
+name: Hearty Wool Insignia	 price: 95.2	 eladodbszam: 818	 mennyivesznek: 1739
+name: Carrion Hard Inscription	 price: 93.1	 eladodbszam: 2695	 mennyivesznek: 858
+name: Valkyrie Linen Insignia	 price: 93.1	 eladodbszam: 2442	 mennyivesznek: 556
+name: Omnomberry Ghost	 price: 92.4	 eladodbszam: 2900	 mennyivesznek: 2381
+name: Fancy Truffle Burger	 price: 91.7	 eladodbszam: 275	 mennyivesznek: 2413
+name: Rampager's Elder Warhorn	 price: 91.0	 eladodbszam: 101	 mennyivesznek: 1
+name: Rampager's Sword of Serpent Slaying	 price: 90.3	 eladodbszam: 80	 mennyivesznek: 130
+name: Vigorous Leather Coat	 price: 88.9	 eladodbszam: 112	 mennyivesznek: 593
+name: Hearty Iron Sword	 price: 86.1	 eladodbszam: 99	 mennyivesznek: 25
+name: Carrion Mithril Dagger	 price: 86.1	 eladodbszam: 65	 mennyivesznek: 121
+name: Ravaging Pirate Pants of the Eagle	 price: 83.3	 eladodbszam: 181	 mennyivesznek: 147
+name: Mystic Coin	 price: 83.3	 eladodbszam: 69527	 mennyivesznek: 43232
+name: Emerald Mithril Earring of the Knight	 price: 81.9	 eladodbszam: 389	 mennyivesznek: 425
+name: Cleric's Barbaric Helm	 price: 81.2	 eladodbszam: 112	 mennyivesznek: 441
+name: Explorer's Hard Inscription	 price: 81.2	 eladodbszam: 3206	 mennyivesznek: 2121
+name: Rejuvenating Acolyte Coat	 price: 80.5	 eladodbszam: 113	 mennyivesznek: 47
+name: Resilient Seeker Coat	 price: 80.5	 eladodbszam: 103	 mennyivesznek: 116
+name: Strong Reinforced Scale Boots of the Dolyak	 price: 79.1	 eladodbszam: 369	 mennyivesznek: 228
+name: Strong Student Circlet	 price: 79.1	 eladodbszam: 97	 mennyivesznek: 106
+name: Sapphire Mithril Ring of the Cleric	 price: 79.1	 eladodbszam: 644	 mennyivesznek: 69
+name: Healing Chain Coat	 price: 78.4	 eladodbszam: 328	 mennyivesznek: 22
+name: Onyx Fragment	 price: 78.4	 eladodbszam: 2624	 mennyivesznek: 5148
+name: Precise Chain Coat	 price: 76.3	 eladodbszam: 165	 mennyivesznek: 2
+name: Malachite Copper Ring of Resilience	 price: 76.3	 eladodbszam: 793	 mennyivesznek: 147
+name: Powerful Venom Sac	 price: 75.6	 eladodbszam: 18960	 mennyivesznek: 16003
+name: Malign Embroidered Pants	 price: 74.9	 eladodbszam: 376	 mennyivesznek: 731
+name: Malign Seeker Pants	 price: 72.8	 eladodbszam: 295	 mennyivesznek: 705
+name: Plate of Coriander Crusted Meat	 price: 72.1	 eladodbszam: 1166	 mennyivesznek: 1830
+name: Minor Rune of the Thief	 price: 70.0	 eladodbszam: 451	 mennyivesznek: 498
+name: Mighty Swindler Gloves of the Afflicted	 price: 69.3	 eladodbszam: 626	 mennyivesznek: 348
+name: Malign Embroidered Coat	 price: 68.6	 eladodbszam: 339	 mennyivesznek: 279
+name: Berserker's Darksteel Dagger	 price: 67.9	 eladodbszam: 116	 mennyivesznek: 35
+name: Healing Chain Boots	 price: 66.5	 eladodbszam: 176	 mennyivesznek: 38
+name: Traveler's Orrian Staff of Earth	 price: 66.5	 eladodbszam: 417	 mennyivesznek: 12
+name: Destroyer Sliver	 price: 66.5	 eladodbszam: 1408	 mennyivesznek: 2552
+name: Ravaging Outlaw Coat	 price: 65.8	 eladodbszam: 319	 mennyivesznek: 37
+name: Honed Cotton Insignia	 price: 64.4	 eladodbszam: 1472	 mennyivesznek: 784
+name: Major Sigil of Geomancy	 price: 63.7	 eladodbszam: 201	 mennyivesznek: 1182
+name: Valkyrie Barbaric Helm	 price: 63.7	 eladodbszam: 152	 mennyivesznek: 565
+name: Coral Mithril Earring of the Rampager	 price: 63.7	 eladodbszam: 547	 mennyivesznek: 269
+name: Candy-Cane Hammer Skin	 price: 60.9	 eladodbszam: 13987	 mennyivesznek: 11061
+name: Malign Glyphic Scepter	 price: 60.9	 eladodbszam: 350	 mennyivesznek: 97
+name: Major Sigil of Elemental Slaying	 price: 58.1	 eladodbszam: 203	 mennyivesznek: 1789
+name: Major Sigil of Venom	 price: 56.7	 eladodbszam: 135	 mennyivesznek: 2183
+name: Bowl of Lotus Stirfry	 price: 55.3	 eladodbszam: 1897	 mennyivesznek: 1574
+name: Bowl of Fire Salsa	 price: 55.3	 eladodbszam: 807	 mennyivesznek: 3450
+name: Standard Maintenance Oil	 price: 54.6	 eladodbszam: 1632	 mennyivesznek: 2677
+name: Mighty Worn Scale Gauntlets of Flame Legion	 price: 52.5	 eladodbszam: 639	 mennyivesznek: 46
+name: Bowl of Saffron-scented Poultry Soup	 price: 51.8	 eladodbszam: 3323	 mennyivesznek: 1947
+name: Malign Embroidered Wristguards	 price: 49.7	 eladodbszam: 366	 mennyivesznek: 1
+name: Honed Iron Sword	 price: 48.3	 eladodbszam: 200	 mennyivesznek: 0
+name: Vigorous Wool Insignia	 price: 46.2	 eladodbszam: 3229	 mennyivesznek: 743
+name: Cleric's Axe of Smoldering	 price: 46.2	 eladodbszam: 170	 mennyivesznek: 72
+name: Scarlet Dye	 price: 45.5	 eladodbszam: 1360	 mennyivesznek: 693
+name: Mighty Greatsword	 price: 44.8	 eladodbszam: 3526	 mennyivesznek: 1015
+name: Vigorous Outlaw Coat	 price: 43.4	 eladodbszam: 222	 mennyivesznek: 57
+name: Mighty Worn Chain Helm	 price: 42.0	 eladodbszam: 1257	 mennyivesznek: 480
+name: Carrion Pirate Gloves of Infiltration	 price: 40.6	 eladodbszam: 182	 mennyivesznek: 142
+name: Bowl of Seaweed Salad	 price: 38.5	 eladodbszam: 3842	 mennyivesznek: 1212
+name: Mighty Sword	 price: 36.4	 eladodbszam: 1762	 mennyivesznek: 1582
+name: Quality Maintenance Oil	 price: 35.7	 eladodbszam: 13990	 mennyivesznek: 4416
+name: Minor Rune of Strength	 price: 35.0	 eladodbszam: 1878	 mennyivesznek: 965
+name: Mighty Embroidered Wristguards	 price: 32.9	 eladodbszam: 899	 mennyivesznek: 22
+name: Winter Frost Dye	 price: 32.2	 eladodbszam: 346	 mennyivesznek: 1391
+name: Kastaz Roasted Poultry	 price: 32.2	 eladodbszam: 774	 mennyivesznek: 3983
+name: Chocolate Raspberry Cream	 price: 31.5	 eladodbszam: 8430	 mennyivesznek: 5352
+name: Heliotrope Dye	 price: 30.8	 eladodbszam: 368	 mennyivesznek: 306
+name: Destroyer Fragment	 price: 30.8	 eladodbszam: 1631	 mennyivesznek: 5243
+name: Powerful Potion of Undead Slaying	 price: 30.1	 eladodbszam: 5510	 mennyivesznek: 6331
+name: Leprechaun Dye	 price: 29.4	 eladodbszam: 549	 mennyivesznek: 759
+name: Spring Moss Dye	 price: 29.4	 eladodbszam: 353	 mennyivesznek: 1035
+name: Shy Peach Dye	 price: 29.4	 eladodbszam: 230	 mennyivesznek: 1193
+name: Swamp Grass Dye	 price: 29.4	 eladodbszam: 200	 mennyivesznek: 1717
+name: Marine Dye	 price: 29.4	 eladodbszam: 206	 mennyivesznek: 566
+name: Sienna Dye	 price: 28.7	 eladodbszam: 343	 mennyivesznek: 1221
+name: Spring Ice Dye	 price: 28.7	 eladodbszam: 624	 mennyivesznek: 1497
+name: Squash Dye	 price: 28.0	 eladodbszam: 600	 mennyivesznek: 1388
+name: Midday Dye	 price: 28.0	 eladodbszam: 613	 mennyivesznek: 921
+name: Chrysocola Orb	 price: 28.0	 eladodbszam: 3331	 mennyivesznek: 294
+name: Pastel Pink Dye	 price: 27.3	 eladodbszam: 347	 mennyivesznek: 1427
+name: Root Dye	 price: 27.3	 eladodbszam: 155	 mennyivesznek: 986
+name: Beige Dye	 price: 27.3	 eladodbszam: 427	 mennyivesznek: 1144
+name: Earthen Dye	 price: 27.3	 eladodbszam: 415	 mennyivesznek: 1197
+name: Powerful Potion of Elemental Slaying	 price: 27.3	 eladodbszam: 1782	 mennyivesznek: 2860
+name: Cream Dye	 price: 27.3	 eladodbszam: 600	 mennyivesznek: 1345
+name: Fresh Green Dye	 price: 26.6	 eladodbszam: 314	 mennyivesznek: 847
+name: Olive Silk Dye	 price: 25.2	 eladodbszam: 454	 mennyivesznek: 2278
+name: Country Teal Dye	 price: 25.2	 eladodbszam: 418	 mennyivesznek: 831
+name: Pride Dye	 price: 25.2	 eladodbszam: 283	 mennyivesznek: 1281
+name: Tulip Dye	 price: 24.5	 eladodbszam: 480	 mennyivesznek: 750
+name: Pastel Olive Dye	 price: 23.8	 eladodbszam: 468	 mennyivesznek: 1269
+name: Stem Dye	 price: 21.0	 eladodbszam: 380	 mennyivesznek: 998
+name: Strong Magician Legs	 price: 19.6	 eladodbszam: 232	 mennyivesznek: 255
+name: Berserker's Mace	 price: 16.8	 eladodbszam: 143	 mennyivesznek: 1621
+name: Rampager's Mace	 price: 13.3	 eladodbszam: 298	 mennyivesznek: 921
+name: Topaz Lump	 price: 12.6	 eladodbszam: 2783	 mennyivesznek: 7781
+name: Berserker's Mace	 price: 11.9	 eladodbszam: 211	 mennyivesznek: 955
+name: Berserker's Shield	 price: 11.2	 eladodbszam: 201	 mennyivesznek: 1274
+name: Pile of Incandescent Dust	 price: 10.5	 eladodbszam: 60731	 mennyivesznek: 125334
+name: Vial of Potent Blood	 price: 9.8	 eladodbszam: 53021	 mennyivesznek: 70630
+name: Lapis Nugget	 price: 9.8	 eladodbszam: 5457	 mennyivesznek: 5945
+name: Amethyst Nugget	 price: 8.4	 eladodbszam: 8362	 mennyivesznek: 4724
+name: Pile of Shimmering Dust	 price: 7.0	 eladodbszam: 30178	 mennyivesznek: 80366
+name: Blackberry Pie	 price: 5.6	 eladodbszam: 12889	 mennyivesznek: 31990
+name: Strawberry Tart	 price: 3.5	 eladodbszam: 3410	 mennyivesznek: 51931
+name: Chocolate Orange	 price: 2.1	 eladodbszam: 27893	 mennyivesznek: 35376

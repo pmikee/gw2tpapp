@@ -1,0 +1,28 @@
+name: Super Shield Skin	 price: 30519.3	 eladodbszam: 67	 mennyivesznek: 127
+name: Bramblethorne	 price: 13160.0	 eladodbszam: 34	 mennyivesznek: 70
+name: Super Long Bow Skin	 price: 11265.1	 eladodbszam: 56	 mennyivesznek: 105
+name: Super Short Bow Skin	 price: 10539.2	 eladodbszam: 67	 mennyivesznek: 109
+name: Berserker's Pearl Broadsword	 price: 7910.0	 eladodbszam: 40	 mennyivesznek: 524
+name: Ogden's Gloves	 price: 3052.7	 eladodbszam: 42	 mennyivesznek: 33
+name: Opal Mithril Ring of the Explorer	 price: 2625.7	 eladodbszam: 95	 mennyivesznek: 81
+name: Superior Sigil of Earth	 price: 1393.7	 eladodbszam: 164	 mennyivesznek: 232
+name: Exquisite Ruby Jewel	 price: 948.5	 eladodbszam: 813	 mennyivesznek: 649
+name: Strong Conjurer Mantle of Divinity	 price: 763.7	 eladodbszam: 92	 mennyivesznek: 175
+name: Pillaging Masquerade Gloves	 price: 755.3	 eladodbszam: 50	 mennyivesznek: 13
+name: Superior Rune of the Pirate	 price: 716.8	 eladodbszam: 1713	 mennyivesznek: 1366
+name: Lapis Silver Amulet of Heartiness	 price: 690.9	 eladodbszam: 148	 mennyivesznek: 37
+name: Exquisite Sapphire Jewel	 price: 618.8	 eladodbszam: 433	 mennyivesznek: 230
+name: Giant Eye	 price: 560.7	 eladodbszam: 572	 mennyivesznek: 937
+name: Superior Rune of Vampirism	 price: 550.2	 eladodbszam: 450	 mennyivesznek: 387
+name: Honed Mace of Smoldering	 price: 464.1	 eladodbszam: 281	 mennyivesznek: 0
+name: Strong Worn Scale Coat of the Traveler	 price: 455.0	 eladodbszam: 74	 mennyivesznek: 188
+name: Carrion Verdant Warhammer of Air	 price: 352.1	 eladodbszam: 31	 mennyivesznek: 109
+name: Vial of Powerful Blood	 price: 142.8	 eladodbszam: 2770	 mennyivesznek: 32502
+name: Superior Rune of Svanir	 price: 142.8	 eladodbszam: 399	 mennyivesznek: 637
+name: Coral Orb	 price: 84.0	 eladodbszam: 4823	 mennyivesznek: 33
+name: Glob of Ectoplasm	 price: 65.8	 eladodbszam: 58418	 mennyivesznek: 86998
+name: Major Sigil of Bloodlust	 price: 64.4	 eladodbszam: 3741	 mennyivesznek: 2024
+name: Ravaging Iron Greatsword	 price: 63.7	 eladodbszam: 139	 mennyivesznek: 173
+name: Pride Dye	 price: 28.7	 eladodbszam: 250	 mennyivesznek: 1210
+name: Berserker's Shield	 price: 15.4	 eladodbszam: 182	 mennyivesznek: 1917
+name: Pile of Vile Essence	 price: 9.8	 eladodbszam: 2188	 mennyivesznek: 7670

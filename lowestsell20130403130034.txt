@@ -1,0 +1,31 @@
+name: Super Sword Skin	 price: 13997.9	 eladodbszam: 73	 mennyivesznek: 121
+name: Berserker's Pearl Blunderbuss	 price: 11187.4	 eladodbszam: 18	 mennyivesznek: 45
+name: Super Hyperbeam Alpha	 price: 9521.4	 eladodbszam: 27	 mennyivesznek: 78
+name: Valkyrie Exalted Boots	 price: 7533.4	 eladodbszam: 36	 mennyivesznek: 21
+name: Maw of the Damned	 price: 7000.7	 eladodbszam: 55	 mennyivesznek: 54
+name: Superior Rune of the Scholar	 price: 4196.5	 eladodbszam: 186	 mennyivesznek: 466
+name: Carrion Emblazoned Boots	 price: 3852.1	 eladodbszam: 25	 mennyivesznek: 26
+name: Carrion Tribal Greatsword of Rage	 price: 3850.7	 eladodbszam: 53	 mennyivesznek: 91
+name: Superior Rune of Hoelbrak	 price: 1366.4	 eladodbszam: 151	 mennyivesznek: 207
+name: Defiant Blaze	 price: 1118.6	 eladodbszam: 55	 mennyivesznek: 47
+name: Explorer's Noble Coat	 price: 1103.9	 eladodbszam: 115	 mennyivesznek: 98
+name: Berserker's Acolyte Pants of the Traveler	 price: 963.9	 eladodbszam: 246	 mennyivesznek: 66
+name: Exquisite Emerald Jewel	 price: 842.8	 eladodbszam: 556	 mennyivesznek: 327
+name: Cleric's Bow of Debility	 price: 712.6	 eladodbszam: 89	 mennyivesznek: 135
+name: Valkyrie Noble Boots	 price: 700.7	 eladodbszam: 58	 mennyivesznek: 48
+name: Exquisite Ruby Jewel	 price: 609.0	 eladodbszam: 857	 mennyivesznek: 622
+name: Strong Conjurer Mask of the Citadel	 price: 541.8	 eladodbszam: 434	 mennyivesznek: 92
+name: Cleric's Banded Helm of Rage	 price: 482.3	 eladodbszam: 232	 mennyivesznek: 81
+name: Berserker's Warhorn of Agony	 price: 443.1	 eladodbszam: 168	 mennyivesznek: 116
+name: Berserker's Focus of Debility	 price: 379.4	 eladodbszam: 120	 mennyivesznek: 72
+name: Major Rune of the Eagle	 price: 69.3	 eladodbszam: 398	 mennyivesznek: 1120
+name: Honed Sword of Air	 price: 68.6	 eladodbszam: 447	 mennyivesznek: 6
+name: Major Rune of Scavenging	 price: 61.6	 eladodbszam: 406	 mennyivesznek: 908
+name: Major Rune of Mercy	 price: 53.9	 eladodbszam: 280	 mennyivesznek: 363
+name: Mighty Greatsword	 price: 42.7	 eladodbszam: 3553	 mennyivesznek: 1029
+name: Major Rune of Lyssa	 price: 33.6	 eladodbszam: 825	 mennyivesznek: 1975
+name: Pile of Luminous Dust	 price: 13.3	 eladodbszam: 58156	 mennyivesznek: 44836
+name: Potent Venom Sac	 price: 9.1	 eladodbszam: 35246	 mennyivesznek: 82743
+name: Omnomberry Bar	 price: 7.7	 eladodbszam: 34857	 mennyivesznek: 22189
+name: Tiger's Eye Pebble	 price: 7.0	 eladodbszam: 12739	 mennyivesznek: 17082
+name: Flawless Snowflake	 price: 6.3	 eladodbszam: 147158	 mennyivesznek: 19311
